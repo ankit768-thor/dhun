@@ -250,11 +250,13 @@ def pick_image(images, prefer=640):
 
 def slim_track(item, rank=None):
     album = item.get("album") or {}
+    release_date = album.get("release_date") or ""
     out = {
         "id": item.get("id"),
         "name": item.get("name"),
         "artists": [a["name"] for a in item.get("artists", [])],
         "album": album.get("name"),
+        "year": release_date[:4] if release_date else None,
         "art": pick_image(album.get("images") or []),
         "art_small": pick_image(album.get("images") or [], prefer=160),
         "url": (item.get("external_urls") or {}).get("spotify"),
