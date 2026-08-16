@@ -1,0 +1,4070 @@
+{
+ "generated_at": "2026-08-16T16:06:08+05:30",
+ "generated_at_utc": "2026-08-16T10:36:08+00:00",
+ "profile": {
+  "name": "Ankit bhargav",
+  "image": "https://i.scdn.co/image/ab6775700000ee85f6b7c8aa14bed7ff98472e90",
+  "url": "https://open.spotify.com/user/g1x3l6qqyi6mpyuqxl4dyv906"
+ },
+ "tracks": {
+  "short_term": [
+   {
+    "id": "37JOhPdeecNxkqpfcj1XcX",
+    "name": "Darmiyaan (From \"Musafir Cafe\")",
+    "artists": [
+     "Rekha Bhardwaj",
+     "Raghav Kaushik",
+     "Amrita Saluja"
+    ],
+    "album": "Darmiyaan (From \"Musafir Cafe\")",
+    "art": "https://i.scdn.co/image/ab67616d0000b273ad3289646d237c156134a74f",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851ad3289646d237c156134a74f",
+    "url": "https://open.spotify.com/track/37JOhPdeecNxkqpfcj1XcX",
+    "duration_ms": 270125,
+    "popularity": null,
+    "rank": 1
+   },
+   {
+    "id": "2Iik2dNqgN0GVAbKupbig5",
+    "name": "Rozaana Reprise",
+    "artists": [
+     "Lisa Mishra",
+     "Neel Adhikari",
+     "Amrita Saluja"
+    ],
+    "album": "Musafir Cafe (Songs from the Netflix Series)",
+    "art": "https://i.scdn.co/image/ab67616d0000b273423045e190b667abb5d2b748",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851423045e190b667abb5d2b748",
+    "url": "https://open.spotify.com/track/2Iik2dNqgN0GVAbKupbig5",
+    "duration_ms": 67203,
+    "popularity": null,
+    "rank": 2
+   },
+   {
+    "id": "0PKLIjYe9K78lky2LxUz2P",
+    "name": "Kaafi Hai Na (From \"Musafir Cafe\")",
+    "artists": [
+     "Garvit - Priyansh",
+     "Priyansh Srivastava",
+     "Jonita Gandhi",
+     "Garvit Soni",
+     "Aniket Shukla"
+    ],
+    "album": "Kaafi Hai Na (From \"Musafir Cafe\")",
+    "art": "https://i.scdn.co/image/ab67616d0000b273808e7cc7276952cab80b52d4",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851808e7cc7276952cab80b52d4",
+    "url": "https://open.spotify.com/track/0PKLIjYe9K78lky2LxUz2P",
+    "duration_ms": 195050,
+    "popularity": null,
+    "rank": 3
+   },
+   {
+    "id": "21GRCs9bqfC14Q5PB5Nggw",
+    "name": "Rozaana",
+    "artists": [
+     "Lisa Mishra",
+     "Neel Adhikari",
+     "Amrita Saluja"
+    ],
+    "album": "Musafir Cafe (Songs from the Netflix Series)",
+    "art": "https://i.scdn.co/image/ab67616d0000b273423045e190b667abb5d2b748",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851423045e190b667abb5d2b748",
+    "url": "https://open.spotify.com/track/21GRCs9bqfC14Q5PB5Nggw",
+    "duration_ms": 135093,
+    "popularity": null,
+    "rank": 4
+   },
+   {
+    "id": "3X5rGVs24gFcOi7oKazC4x",
+    "name": "Tera Hua Sahiba (From \"Musafir Cafe\")",
+    "artists": [
+     "Garvit - Priyansh",
+     "Garvit Soni",
+     "Priyansh Srivastava",
+     "Hansika Pareek",
+     "Aniket Shukla"
+    ],
+    "album": "Tera Hua Sahiba (From \"Musafir Cafe\")",
+    "art": "https://i.scdn.co/image/ab67616d0000b27384ea149c2433fc066295d25d",
+    "art_small": "https://i.scdn.co/image/ab67616d0000485184ea149c2433fc066295d25d",
+    "url": "https://open.spotify.com/track/3X5rGVs24gFcOi7oKazC4x",
+    "duration_ms": 282079,
+    "popularity": null,
+    "rank": 5
+   },
+   {
+    "id": "59k0VPRjNwVg6P9HVHMW2N",
+    "name": "Mileya Mileya",
+    "artists": [
+     "Sachin-Jigar",
+     "Rekha Bhardwaj",
+     "Jigar Saraiya",
+     "Priya Andrews"
+    ],
+    "album": "Happy Ending (Original Motion Picture Soundtrack)",
+    "art": "https://i.scdn.co/image/ab67616d0000b27327645f4be53466f0a62a6b3e",
+    "art_small": "https://i.scdn.co/image/ab67616d0000485127645f4be53466f0a62a6b3e",
+    "url": "https://open.spotify.com/track/59k0VPRjNwVg6P9HVHMW2N",
+    "duration_ms": 266279,
+    "popularity": null,
+    "rank": 6
+   },
+   {
+    "id": "7280HwHnArYG4X6O8QMLn0",
+    "name": "Toota Rahunga",
+    "artists": [
+     "Garvit - Priyansh",
+     "Garvit Soni",
+     "Priyansh Srivastava",
+     "Aniket Shukla"
+    ],
+    "album": "Musafir Cafe (Songs from the Netflix Series)",
+    "art": "https://i.scdn.co/image/ab67616d0000b273423045e190b667abb5d2b748",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851423045e190b667abb5d2b748",
+    "url": "https://open.spotify.com/track/7280HwHnArYG4X6O8QMLn0",
+    "duration_ms": 244030,
+    "popularity": null,
+    "rank": 7
+   },
+   {
+    "id": "3QaflNCgYdF2fZKIK1QGjF",
+    "name": "Madhubala",
+    "artists": [
+     "Amit Trivedi"
+    ],
+    "album": "Songs of Love",
+    "art": "https://i.scdn.co/image/ab67616d0000b2730192dc75962c07ea1f6d1112",
+    "art_small": "https://i.scdn.co/image/ab67616d000048510192dc75962c07ea1f6d1112",
+    "url": "https://open.spotify.com/track/3QaflNCgYdF2fZKIK1QGjF",
+    "duration_ms": 243333,
+    "popularity": null,
+    "rank": 8
+   },
+   {
+    "id": "7mJdz7uNv3jgVSIMkSf8ca",
+    "name": "Kasoor (From \"Dhamaka\") - Acoustic",
+    "artists": [
+     "Prateek Kuhad"
+    ],
+    "album": "Kasoor (From \"Dhamaka\") [Acoustic]",
+    "art": "https://i.scdn.co/image/ab67616d0000b273d002232ff9fefaa670829630",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851d002232ff9fefaa670829630",
+    "url": "https://open.spotify.com/track/7mJdz7uNv3jgVSIMkSf8ca",
+    "duration_ms": 213306,
+    "popularity": null,
+    "rank": 9
+   },
+   {
+    "id": "2iVj11OdEBNIGUv9f7jGPK",
+    "name": "Taare",
+    "artists": [
+     "Farak",
+     "10A",
+     "Saswat Balan"
+    ],
+    "album": "Deewar Ke Uss Paar",
+    "art": "https://i.scdn.co/image/ab67616d0000b273a81b61a834db74333eb53a2e",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851a81b61a834db74333eb53a2e",
+    "url": "https://open.spotify.com/track/2iVj11OdEBNIGUv9f7jGPK",
+    "duration_ms": 154473,
+    "popularity": null,
+    "rank": 10
+   },
+   {
+    "id": "41v8xHlKWch7OMqL6215cu",
+    "name": "Dil Na Jaaneya - Unplugged",
+    "artists": [
+     "Arijit Singh",
+     "Rochak Kohli"
+    ],
+    "album": "Long Drive (Bollywood Mix)",
+    "art": "https://i.scdn.co/image/ab67616d0000b273fd2824249c4df9c5f8aa543c",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851fd2824249c4df9c5f8aa543c",
+    "url": "https://open.spotify.com/track/41v8xHlKWch7OMqL6215cu",
+    "duration_ms": 183902,
+    "popularity": null,
+    "rank": 11
+   },
+   {
+    "id": "1awtp7rf6ajhGY9BgzCHeZ",
+    "name": "Darkhaast",
+    "artists": [
+     "Mithoon",
+     "Arijit Singh",
+     "Sunidhi Chauhan",
+     "Sayeed Quadri"
+    ],
+    "album": "Shivaay",
+    "art": "https://i.scdn.co/image/ab67616d0000b273e7fe7d656750737e8d369f95",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851e7fe7d656750737e8d369f95",
+    "url": "https://open.spotify.com/track/1awtp7rf6ajhGY9BgzCHeZ",
+    "duration_ms": 374205,
+    "popularity": null,
+    "rank": 12
+   },
+   {
+    "id": "1bMkimTb47umgNP6xCi4A1",
+    "name": "Arz Kiya Hai | Coke Studio Bharat",
+    "artists": [
+     "Anuv Jain"
+    ],
+    "album": "Arz Kiya Hai | Coke Studio Bharat",
+    "art": "https://i.scdn.co/image/ab67616d0000b27325fa2d19b2363a9520a34409",
+    "art_small": "https://i.scdn.co/image/ab67616d0000485125fa2d19b2363a9520a34409",
+    "url": "https://open.spotify.com/track/1bMkimTb47umgNP6xCi4A1",
+    "duration_ms": 294500,
+    "popularity": null,
+    "rank": 13
+   },
+   {
+    "id": "2MCjV49hbv76CtqKmG0pFq",
+    "name": "Dariya",
+    "artists": [
+     "Arko"
+    ],
+    "album": "Arko Top Hits",
+    "art": "https://i.scdn.co/image/ab67616d0000b273f3e0e15bd1f4b3d025b0e5c9",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851f3e0e15bd1f4b3d025b0e5c9",
+    "url": "https://open.spotify.com/track/2MCjV49hbv76CtqKmG0pFq",
+    "duration_ms": 217992,
+    "popularity": null,
+    "rank": 14
+   },
+   {
+    "id": "2NECp5Tvb5Lm6TbJf0Y8xI",
+    "name": "Mera Yaar",
+    "artists": [
+     "Shankar-Ehsaan-Loy",
+     "Javed Bashir"
+    ],
+    "album": "Bhaag Milkha Bhaag (Original Motion Picture Soundtrack)",
+    "art": "https://i.scdn.co/image/ab67616d0000b273b414911b2d52d2601220603a",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851b414911b2d52d2601220603a",
+    "url": "https://open.spotify.com/track/2NECp5Tvb5Lm6TbJf0Y8xI",
+    "duration_ms": 351290,
+    "popularity": null,
+    "rank": 15
+   },
+   {
+    "id": "3gixnmepHSsyAuho34rprN",
+    "name": "Khat",
+    "artists": [
+     "Navjot Ahuja"
+    ],
+    "album": "Khat",
+    "art": "https://i.scdn.co/image/ab67616d0000b273d421c37d9cf4bbee71844c24",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851d421c37d9cf4bbee71844c24",
+    "url": "https://open.spotify.com/track/3gixnmepHSsyAuho34rprN",
+    "duration_ms": 296222,
+    "popularity": null,
+    "rank": 16
+   },
+   {
+    "id": "4137w3YEeQSgz52qxyjxHR",
+    "name": "Kaun Mera",
+    "artists": [
+     "Papon"
+    ],
+    "album": "Special 26",
+    "art": "https://i.scdn.co/image/ab67616d0000b2737840b2af41326ed0cc61e89d",
+    "art_small": "https://i.scdn.co/image/ab67616d000048517840b2af41326ed0cc61e89d",
+    "url": "https://open.spotify.com/track/4137w3YEeQSgz52qxyjxHR",
+    "duration_ms": 172942,
+    "popularity": null,
+    "rank": 17
+   },
+   {
+    "id": "4OCpBhcJxiSd1azaBOy21U",
+    "name": "Meet",
+    "artists": [
+     "Sachin-Jigar",
+     "Arijit Singh"
+    ],
+    "album": "Simran",
+    "art": "https://i.scdn.co/image/ab67616d0000b2731a660a361e14db70452a82a6",
+    "art_small": "https://i.scdn.co/image/ab67616d000048511a660a361e14db70452a82a6",
+    "url": "https://open.spotify.com/track/4OCpBhcJxiSd1azaBOy21U",
+    "duration_ms": 215411,
+    "popularity": null,
+    "rank": 18
+   },
+   {
+    "id": "7lbxHFYGSOnj1KMaD4v2O6",
+    "name": "Ghar Se Nikalte Hi - Unplugged",
+    "artists": [
+     "Pooja M Suresh",
+     "Rajesh Roshan"
+    ],
+    "album": "Ghar Se Nikalte Hi - Unplugged",
+    "art": "https://i.scdn.co/image/ab67616d0000b27378202f4dd2988e5f1f046f7f",
+    "art_small": "https://i.scdn.co/image/ab67616d0000485178202f4dd2988e5f1f046f7f",
+    "url": "https://open.spotify.com/track/7lbxHFYGSOnj1KMaD4v2O6",
+    "duration_ms": 205241,
+    "popularity": null,
+    "rank": 19
+   },
+   {
+    "id": "0q5e5KtUOhYQujmhLP0pKd",
+    "name": "Dooron Dooron",
+    "artists": [
+     "Paresh Pahuja",
+     "Shiv Tandan",
+     "Meghdeep Bose"
+    ],
+    "album": "Dooron Dooron",
+    "art": "https://i.scdn.co/image/ab67616d0000b2739fd839ed5ae2fd87ee8ac923",
+    "art_small": "https://i.scdn.co/image/ab67616d000048519fd839ed5ae2fd87ee8ac923",
+    "url": "https://open.spotify.com/track/0q5e5KtUOhYQujmhLP0pKd",
+    "duration_ms": 215946,
+    "popularity": null,
+    "rank": 20
+   },
+   {
+    "id": "1cSgKCsIM5WCzlLgRkY0Ov",
+    "name": "Sukoon Mila",
+    "artists": [
+     "Arijit Singh"
+    ],
+    "album": "Long Drive (Bollywood Mix)",
+    "art": "https://i.scdn.co/image/ab67616d0000b273fd2824249c4df9c5f8aa543c",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851fd2824249c4df9c5f8aa543c",
+    "url": "https://open.spotify.com/track/1cSgKCsIM5WCzlLgRkY0Ov",
+    "duration_ms": 200437,
+    "popularity": null,
+    "rank": 21
+   },
+   {
+    "id": "1kcV2LJxt5v0s2cEGtEJ5i",
+    "name": "Phir Se Ud Chala",
+    "artists": [
+     "Mohit Chauhan"
+    ],
+    "album": "Rockstar",
+    "art": "https://i.scdn.co/image/ab67616d0000b27354e544672baa16145d67612b",
+    "art_small": "https://i.scdn.co/image/ab67616d0000485154e544672baa16145d67612b",
+    "url": "https://open.spotify.com/track/1kcV2LJxt5v0s2cEGtEJ5i",
+    "duration_ms": 268833,
+    "popularity": null,
+    "rank": 22
+   },
+   {
+    "id": "1udS0lQ0dypXEoKjP1JHwa",
+    "name": "Heartquake",
+    "artists": [
+     "Papon"
+    ],
+    "album": "Karwaan",
+    "art": "https://i.scdn.co/image/ab67616d0000b273f07f0455c6cc38f14105acfb",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851f07f0455c6cc38f14105acfb",
+    "url": "https://open.spotify.com/track/1udS0lQ0dypXEoKjP1JHwa",
+    "duration_ms": 201254,
+    "popularity": null,
+    "rank": 23
+   },
+   {
+    "id": "2HHmJ0oUtxDLXhn7uEDxYW",
+    "name": "Zamaana Lage",
+    "artists": [
+     "Pritam",
+     "Arijit Singh",
+     "Shashwat Singh",
+     "Qaisar-Ul-Jafri",
+     "Sandeep Shrivastava"
+    ],
+    "album": "Metro ... In Dino (Side A)",
+    "art": "https://i.scdn.co/image/ab67616d0000b273c143807ae8bcde3ca124abbd",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851c143807ae8bcde3ca124abbd",
+    "url": "https://open.spotify.com/track/2HHmJ0oUtxDLXhn7uEDxYW",
+    "duration_ms": 196138,
+    "popularity": null,
+    "rank": 24
+   },
+   {
+    "id": "2Repz4eP8qEqOVz8CltLZ0",
+    "name": "Baawra",
+    "artists": [
+     "Kushagra",
+     "Tanishka Bahl",
+     "Akash Rajput"
+    ],
+    "album": "Baawra",
+    "art": "https://i.scdn.co/image/ab67616d0000b2734a7f529e568e5561b57da1bc",
+    "art_small": "https://i.scdn.co/image/ab67616d000048514a7f529e568e5561b57da1bc",
+    "url": "https://open.spotify.com/track/2Repz4eP8qEqOVz8CltLZ0",
+    "duration_ms": 268000,
+    "popularity": null,
+    "rank": 25
+   },
+   {
+    "id": "2Rz2F6KoLH6TtbX4TZ2qcP",
+    "name": "Tu Thodi Der Aur Thehar Ja - From \"Half Girlfriend\"",
+    "artists": [
+     "Shreya Ghoshal",
+     "Farhan Saeed",
+     "Kumaar"
+    ],
+    "album": "Tu Thodi Der Aur Thehar Ja (From \"Half Girlfriend\")",
+    "art": "https://i.scdn.co/image/ab67616d0000b273fdfdfb32ce2dae56c62c8ac7",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851fdfdfb32ce2dae56c62c8ac7",
+    "url": "https://open.spotify.com/track/2Rz2F6KoLH6TtbX4TZ2qcP",
+    "duration_ms": 296377,
+    "popularity": null,
+    "rank": 26
+   },
+   {
+    "id": "2Z6HgNji9cNlFLNORw6wDQ",
+    "name": "Channa Ve - From \"Bhoot - Part One: The Haunted Ship\"",
+    "artists": [
+     "Akhil Sachdeva",
+     "Mansheel Gujral"
+    ],
+    "album": "Channa Ve (From \"Bhoot - Part One: The Haunted Ship\" / Original Motion Picture Soundtrack)",
+    "art": "https://i.scdn.co/image/ab67616d0000b273d3c06cabe1f80f26d369c5ba",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851d3c06cabe1f80f26d369c5ba",
+    "url": "https://open.spotify.com/track/2Z6HgNji9cNlFLNORw6wDQ",
+    "duration_ms": 211578,
+    "popularity": null,
+    "rank": 27
+   },
+   {
+    "id": "2fMlezwwP5Hr1UwuAknN4o",
+    "name": "Tose Naina (From \"Mickey Virus)",
+    "artists": [
+     "Arijit Singh"
+    ],
+    "album": "Love Dose Arijit Singh",
+    "art": "https://i.scdn.co/image/ab67616d0000b2732d2263486e48ab1b41ae2466",
+    "art_small": "https://i.scdn.co/image/ab67616d000048512d2263486e48ab1b41ae2466",
+    "url": "https://open.spotify.com/track/2fMlezwwP5Hr1UwuAknN4o",
+    "duration_ms": 263549,
+    "popularity": null,
+    "rank": 28
+   },
+   {
+    "id": "3xF15SqY32Mno3UUMBirhU",
+    "name": "Zehnaseeb",
+    "artists": [
+     "Vishal-Shekhar",
+     "Chinmayi",
+     "Shekhar Ravjiani"
+    ],
+    "album": "Hasee Toh Phasee (Original Motion Picture Soundtrack)",
+    "art": "https://i.scdn.co/image/ab67616d0000b2732025db071cd9dd7e8023e01e",
+    "art_small": "https://i.scdn.co/image/ab67616d000048512025db071cd9dd7e8023e01e",
+    "url": "https://open.spotify.com/track/3xF15SqY32Mno3UUMBirhU",
+    "duration_ms": 217440,
+    "popularity": null,
+    "rank": 29
+   },
+   {
+    "id": "3zm4wlfbYW9p4mzK8rMIB8",
+    "name": "Tera Rastaa Chhodoon Na",
+    "artists": [
+     "Vishal-Shekhar",
+     "Amitabh Bhattacharya",
+     "Anusha Mani"
+    ],
+    "album": "Chennai Express",
+    "art": "https://i.scdn.co/image/ab67616d0000b27394c54b0918e86cb477b594f4",
+    "art_small": "https://i.scdn.co/image/ab67616d0000485194c54b0918e86cb477b594f4",
+    "url": "https://open.spotify.com/track/3zm4wlfbYW9p4mzK8rMIB8",
+    "duration_ms": 252963,
+    "popularity": null,
+    "rank": 30
+   },
+   {
+    "id": "45WZToFfKWqeN8A9GyBETB",
+    "name": "Yeh Awarapan (From \"Awarapan 2\")",
+    "artists": [
+     "Amaal Mallik",
+     "Arijit Singh",
+     "Rashmi Virag"
+    ],
+    "album": "Yeh Awarapan (From \"Awarapan 2\")",
+    "art": "https://i.scdn.co/image/ab67616d0000b273ae297b91f4acf9498de50a98",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851ae297b91f4acf9498de50a98",
+    "url": "https://open.spotify.com/track/45WZToFfKWqeN8A9GyBETB",
+    "duration_ms": 298144,
+    "popularity": null,
+    "rank": 31
+   },
+   {
+    "id": "4zrXk2Sj4PCJCOJ9azRZc3",
+    "name": "Shaayraana",
+    "artists": [
+     "Pritam",
+     "Arijit Singh"
+    ],
+    "album": "Long Drive (Bollywood Mix)",
+    "art": "https://i.scdn.co/image/ab67616d0000b273fd2824249c4df9c5f8aa543c",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851fd2824249c4df9c5f8aa543c",
+    "url": "https://open.spotify.com/track/4zrXk2Sj4PCJCOJ9azRZc3",
+    "duration_ms": 261439,
+    "popularity": null,
+    "rank": 32
+   },
+   {
+    "id": "55TlMMnPJTk9Qq6CrqB6dx",
+    "name": "Itni Si Baat Hain (From \"Azhar\")",
+    "artists": [
+     "Arijit Singh",
+     "Antara Mitra"
+    ],
+    "album": "Love Forever With Arijit Singh",
+    "art": "https://i.scdn.co/image/ab67616d0000b2737569cbe3695608074d9fd389",
+    "art_small": "https://i.scdn.co/image/ab67616d000048517569cbe3695608074d9fd389",
+    "url": "https://open.spotify.com/track/55TlMMnPJTk9Qq6CrqB6dx",
+    "duration_ms": 294846,
+    "popularity": null,
+    "rank": 33
+   },
+   {
+    "id": "5haZbtveqI9v1svcc5IDx6",
+    "name": "Inaam (Ft. Badshah)",
+    "artists": [
+     "Jasleen Royal",
+     "Badshah",
+     "Ansh Chahal"
+    ],
+    "album": "Inaam (Ft. Badshah)",
+    "art": "https://i.scdn.co/image/ab67616d0000b273974c87c4d1b73970e0f45f70",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851974c87c4d1b73970e0f45f70",
+    "url": "https://open.spotify.com/track/5haZbtveqI9v1svcc5IDx6",
+    "duration_ms": 178124,
+    "popularity": null,
+    "rank": 34
+   },
+   {
+    "id": "5lrA2NzUxmBjKr2tCZfMtl",
+    "name": "Ik Vaari Aa (From \"Raabta\")",
+    "artists": [
+     "Pritam",
+     "Arijit Singh"
+    ],
+    "album": "Ik Vaari Aa (From \"Raabta\")",
+    "art": "https://i.scdn.co/image/ab67616d0000b273ece89c7bf7d8141a1e8eef42",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851ece89c7bf7d8141a1e8eef42",
+    "url": "https://open.spotify.com/track/5lrA2NzUxmBjKr2tCZfMtl",
+    "duration_ms": 274687,
+    "popularity": null,
+    "rank": 35
+   },
+   {
+    "id": "5npFBWhVs3VVlc0nY5xQMA",
+    "name": "Tainu Khabar Nahi - From \"Munjya\"",
+    "artists": [
+     "Sachin-Jigar",
+     "Arijit Singh"
+    ],
+    "album": "Tainu Khabar Nahi (From \"Munjya\")",
+    "art": "https://i.scdn.co/image/ab67616d0000b27367a876fee5cd00ed0f395a9e",
+    "art_small": "https://i.scdn.co/image/ab67616d0000485167a876fee5cd00ed0f395a9e",
+    "url": "https://open.spotify.com/track/5npFBWhVs3VVlc0nY5xQMA",
+    "duration_ms": 188166,
+    "popularity": null,
+    "rank": 36
+   },
+   {
+    "id": "6gprR0rGv59wALbBU7yZkl",
+    "name": "Meri Banogi Kya",
+    "artists": [
+     "Rito Riba",
+     "Rajat Nagpal"
+    ],
+    "album": "Meri Banogi Kya",
+    "art": "https://i.scdn.co/image/ab67616d0000b2732ebd3d368294e9c19696299c",
+    "art_small": "https://i.scdn.co/image/ab67616d000048512ebd3d368294e9c19696299c",
+    "url": "https://open.spotify.com/track/6gprR0rGv59wALbBU7yZkl",
+    "duration_ms": 215035,
+    "popularity": null,
+    "rank": 37
+   },
+   {
+    "id": "6xwKNAUHeo2DbWNAPi8aEy",
+    "name": "Jaiye Sajana",
+    "artists": [
+     "Shashwat Sachdev",
+     "Jasmine Sandlas",
+     "Satinder Sartaaj"
+    ],
+    "album": "Dhurandhar The Revenge",
+    "art": "https://i.scdn.co/image/ab67616d0000b2734c3eeb98521e02693a46d6db",
+    "art_small": "https://i.scdn.co/image/ab67616d000048514c3eeb98521e02693a46d6db",
+    "url": "https://open.spotify.com/track/6xwKNAUHeo2DbWNAPi8aEy",
+    "duration_ms": 180004,
+    "popularity": null,
+    "rank": 38
+   },
+   {
+    "id": "7kvLAPEnEPlSbhZDlHFv0p",
+    "name": "Yeh Fitoor Mera",
+    "artists": [
+     "Amit Trivedi",
+     "Arijit Singh"
+    ],
+    "album": "Fitoor (Original Motion Picture Soundtrack)",
+    "art": "https://i.scdn.co/image/ab67616d0000b273b99c0e6b9bf5ba4da74e816d",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851b99c0e6b9bf5ba4da74e816d",
+    "url": "https://open.spotify.com/track/7kvLAPEnEPlSbhZDlHFv0p",
+    "duration_ms": 283070,
+    "popularity": null,
+    "rank": 39
+   },
+   {
+    "id": "0RsH8g8DxdYZgdGcod5I36",
+    "name": "Bairan",
+    "artists": [
+     "Banjaare"
+    ],
+    "album": "Bairan",
+    "art": "https://i.scdn.co/image/ab67616d0000b273cdce9a38222807fa703b4396",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851cdce9a38222807fa703b4396",
+    "url": "https://open.spotify.com/track/0RsH8g8DxdYZgdGcod5I36",
+    "duration_ms": 150857,
+    "popularity": null,
+    "rank": 40
+   },
+   {
+    "id": "0XJnlkGnE6acHVTRhpKls7",
+    "name": "Akhiyaan Milavanga",
+    "artists": [
+     "Arijit Singh",
+     "Sruthy Sasidharan",
+     "Mannan Shaah"
+    ],
+    "album": "Long Drive (Bollywood Mix)",
+    "art": "https://i.scdn.co/image/ab67616d0000b273fd2824249c4df9c5f8aa543c",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851fd2824249c4df9c5f8aa543c",
+    "url": "https://open.spotify.com/track/0XJnlkGnE6acHVTRhpKls7",
+    "duration_ms": 302319,
+    "popularity": null,
+    "rank": 41
+   },
+   {
+    "id": "17cYtwy8kdB6e6b2EBTn4M",
+    "name": "Jaan 'Nisaar",
+    "artists": [
+     "Amit Trivedi",
+     "Arijit Singh"
+    ],
+    "album": "Kedarnath (Original Motion Picture Soundtrack)",
+    "art": "https://i.scdn.co/image/ab67616d0000b273c65eb44f9039e006247ef8f7",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851c65eb44f9039e006247ef8f7",
+    "url": "https://open.spotify.com/track/17cYtwy8kdB6e6b2EBTn4M",
+    "duration_ms": 238369,
+    "popularity": null,
+    "rank": 42
+   },
+   {
+    "id": "1AZjpoM9YJmLxEvNIg56L4",
+    "name": "Aasman Mein Dekh",
+    "artists": [
+     "Hitesh Narang"
+    ],
+    "album": "Aasman Mein Dekh",
+    "art": "https://i.scdn.co/image/ab67616d0000b27329eb07211727cab3877b0a89",
+    "art_small": "https://i.scdn.co/image/ab67616d0000485129eb07211727cab3877b0a89",
+    "url": "https://open.spotify.com/track/1AZjpoM9YJmLxEvNIg56L4",
+    "duration_ms": 208577,
+    "popularity": null,
+    "rank": 43
+   },
+   {
+    "id": "1chUdrYufCiW2H5qQfo4b5",
+    "name": "Pyara Pyara",
+    "artists": [
+     "Swanand Kirkire"
+    ],
+    "album": "Taali (Soundtrack from the JioCinema Show)",
+    "art": "https://i.scdn.co/image/ab67616d0000b27381522d4e1f1e117c025ba471",
+    "art_small": "https://i.scdn.co/image/ab67616d0000485181522d4e1f1e117c025ba471",
+    "url": "https://open.spotify.com/track/1chUdrYufCiW2H5qQfo4b5",
+    "duration_ms": 163500,
+    "popularity": null,
+    "rank": 44
+   },
+   {
+    "id": "1eBFrWYS49r9t4qJs1Z0F0",
+    "name": "Singaar Ko Rehne Do",
+    "artists": [
+     "Gulzar",
+     "Shreya Ghoshal"
+    ],
+    "album": "Gulzar In Conversation With Tagore",
+    "art": "https://i.scdn.co/image/ab67616d0000b27328d2614087dae2008430dd5d",
+    "art_small": "https://i.scdn.co/image/ab67616d0000485128d2614087dae2008430dd5d",
+    "url": "https://open.spotify.com/track/1eBFrWYS49r9t4qJs1Z0F0",
+    "duration_ms": 422161,
+    "popularity": null,
+    "rank": 45
+   },
+   {
+    "id": "1fkjRQA8wXPPyxqYLbxuqy",
+    "name": "Ishq Bulaava",
+    "artists": [
+     "Vishal-Shekhar",
+     "Sanam Puri",
+     "Shipra Goyal"
+    ],
+    "album": "Hasee Toh Phasee (Original Motion Picture Soundtrack)",
+    "art": "https://i.scdn.co/image/ab67616d0000b2732025db071cd9dd7e8023e01e",
+    "art_small": "https://i.scdn.co/image/ab67616d000048512025db071cd9dd7e8023e01e",
+    "url": "https://open.spotify.com/track/1fkjRQA8wXPPyxqYLbxuqy",
+    "duration_ms": 303640,
+    "popularity": null,
+    "rank": 46
+   },
+   {
+    "id": "2cz4qH4fCauVA93JHkUMad",
+    "name": "Le Aaunga (From \"Satyaprem Ki Katha\")",
+    "artists": [
+     "Tanishk Bagchi",
+     "Arijit Singh"
+    ],
+    "album": "Le Aaunga (From \"Satyaprem Ki Katha\")",
+    "art": "https://i.scdn.co/image/ab67616d0000b2732c5e04686b02b8d92c0894ad",
+    "art_small": "https://i.scdn.co/image/ab67616d000048512c5e04686b02b8d92c0894ad",
+    "url": "https://open.spotify.com/track/2cz4qH4fCauVA93JHkUMad",
+    "duration_ms": 244052,
+    "popularity": null,
+    "rank": 47
+   },
+   {
+    "id": "2kdLpMajZ2VoKEAv9nGsUz",
+    "name": "Kaahe Mose",
+    "artists": [
+     "Garvit - Priyansh",
+     "Garvit Soni",
+     "Priyansh Srivastava"
+    ],
+    "album": "Kaahe Mose",
+    "art": "https://i.scdn.co/image/ab67616d0000b2731f2c1b67a525cb5b6ccbb7fd",
+    "art_small": "https://i.scdn.co/image/ab67616d000048511f2c1b67a525cb5b6ccbb7fd",
+    "url": "https://open.spotify.com/track/2kdLpMajZ2VoKEAv9nGsUz",
+    "duration_ms": 219097,
+    "popularity": null,
+    "rank": 48
+   },
+   {
+    "id": "3WLJ7D5kh44K5eJ1NqZQ6W",
+    "name": "Baarishein",
+    "artists": [
+     "Anuv Jain"
+    ],
+    "album": "Baarishein",
+    "art": "https://i.scdn.co/image/ab67616d0000b273d8ca783fa570b57e082f4374",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851d8ca783fa570b57e082f4374",
+    "url": "https://open.spotify.com/track/3WLJ7D5kh44K5eJ1NqZQ6W",
+    "duration_ms": 207312,
+    "popularity": null,
+    "rank": 49
+   },
+   {
+    "id": "3ezYLk9ned8ITGIPMvfpew",
+    "name": "Jadu Hai Nasha Hai - 2002",
+    "artists": [
+     "Shreya Ghoshal"
+    ],
+    "album": "Jism",
+    "art": "https://i.scdn.co/image/ab67616d0000b273e29770ab44ef6e8e600bc9a4",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851e29770ab44ef6e8e600bc9a4",
+    "url": "https://open.spotify.com/track/3ezYLk9ned8ITGIPMvfpew",
+    "duration_ms": 329066,
+    "popularity": null,
+    "rank": 50
+   }
+  ],
+  "medium_term": [
+   {
+    "id": "50EDY0zGZteoBy3hORXSba",
+    "name": "Tere Paas Main - Female Version (From \"Main Vaapas Aaunga\")",
+    "artists": [
+     "A.R. Rahman",
+     "Irshad Kamil",
+     "Deepali Sahay"
+    ],
+    "album": "Main Vaapas Aaunga (Original Motion Picture Soundtrack)",
+    "art": "https://i.scdn.co/image/ab67616d0000b273320d8311f82163512e3a4850",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851320d8311f82163512e3a4850",
+    "url": "https://open.spotify.com/track/50EDY0zGZteoBy3hORXSba",
+    "duration_ms": 244647,
+    "popularity": null,
+    "rank": 1
+   },
+   {
+    "id": "0RsH8g8DxdYZgdGcod5I36",
+    "name": "Bairan",
+    "artists": [
+     "Banjaare"
+    ],
+    "album": "Bairan",
+    "art": "https://i.scdn.co/image/ab67616d0000b273cdce9a38222807fa703b4396",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851cdce9a38222807fa703b4396",
+    "url": "https://open.spotify.com/track/0RsH8g8DxdYZgdGcod5I36",
+    "duration_ms": 150857,
+    "popularity": null,
+    "rank": 2
+   },
+   {
+    "id": "4aWTPC6cuebk9zSpW1PY1Y",
+    "name": "Jaan Se Guzarte Hain",
+    "artists": [
+     "Shashwat Sachdev",
+     "Khan Saab",
+     "Nusrat Fateh Ali Khan"
+    ],
+    "album": "Dhurandhar The Revenge",
+    "art": "https://i.scdn.co/image/ab67616d0000b2734c3eeb98521e02693a46d6db",
+    "art_small": "https://i.scdn.co/image/ab67616d000048514c3eeb98521e02693a46d6db",
+    "url": "https://open.spotify.com/track/4aWTPC6cuebk9zSpW1PY1Y",
+    "duration_ms": 332116,
+    "popularity": null,
+    "rank": 3
+   },
+   {
+    "id": "38fNF1FRlrNh8e16Vc8iap",
+    "name": "Dheere Dheere (From \"Main Vaapas Aaunga\")",
+    "artists": [
+     "A.R. Rahman",
+     "Irshad Kamil",
+     "Faheem Abdullah",
+     "Shilpa Rao",
+     "Antara Nandy",
+     "Heer"
+    ],
+    "album": "Main Vaapas Aaunga (Original Motion Picture Soundtrack)",
+    "art": "https://i.scdn.co/image/ab67616d0000b273320d8311f82163512e3a4850",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851320d8311f82163512e3a4850",
+    "url": "https://open.spotify.com/track/38fNF1FRlrNh8e16Vc8iap",
+    "duration_ms": 251428,
+    "popularity": null,
+    "rank": 4
+   },
+   {
+    "id": "79WcL9b7spam7V0nBJNa6O",
+    "name": "Destiny - Mann Atkeya",
+    "artists": [
+     "Shashwat Sachdev",
+     "Token",
+     "Vaibhav Gupta",
+     "Shahzad Ali"
+    ],
+    "album": "Dhurandhar The Revenge",
+    "art": "https://i.scdn.co/image/ab67616d0000b2734c3eeb98521e02693a46d6db",
+    "art_small": "https://i.scdn.co/image/ab67616d000048514c3eeb98521e02693a46d6db",
+    "url": "https://open.spotify.com/track/79WcL9b7spam7V0nBJNa6O",
+    "duration_ms": 226103,
+    "popularity": null,
+    "rank": 5
+   },
+   {
+    "id": "37JOhPdeecNxkqpfcj1XcX",
+    "name": "Darmiyaan (From \"Musafir Cafe\")",
+    "artists": [
+     "Rekha Bhardwaj",
+     "Raghav Kaushik",
+     "Amrita Saluja"
+    ],
+    "album": "Darmiyaan (From \"Musafir Cafe\")",
+    "art": "https://i.scdn.co/image/ab67616d0000b273ad3289646d237c156134a74f",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851ad3289646d237c156134a74f",
+    "url": "https://open.spotify.com/track/37JOhPdeecNxkqpfcj1XcX",
+    "duration_ms": 270125,
+    "popularity": null,
+    "rank": 6
+   },
+   {
+    "id": "157BtwkY54FQ3Xl8DsTso1",
+    "name": "Dhurandhar The Revenge - Aari Aari",
+    "artists": [
+     "Shashwat Sachdev",
+     "Bombay Rockers",
+     "Irshad Kamil",
+     "Khan Saab",
+     "Reble",
+     "Token",
+     "Jasmine Sandlas",
+     "Sudhir Yaduvanshi"
+    ],
+    "album": "Dhurandhar The Revenge",
+    "art": "https://i.scdn.co/image/ab67616d0000b2734c3eeb98521e02693a46d6db",
+    "art_small": "https://i.scdn.co/image/ab67616d000048514c3eeb98521e02693a46d6db",
+    "url": "https://open.spotify.com/track/157BtwkY54FQ3Xl8DsTso1",
+    "duration_ms": 210053,
+    "popularity": null,
+    "rank": 7
+   },
+   {
+    "id": "1mMtHMkMm4wdTry0iAPMGY",
+    "name": "⁠Tere Paas Main - Male Version (From \"Main Vaapas Aaunga\")",
+    "artists": [
+     "A.R. Rahman",
+     "Irshad Kamil",
+     "Vipin Aneja"
+    ],
+    "album": "Main Vaapas Aaunga (Original Motion Picture Soundtrack)",
+    "art": "https://i.scdn.co/image/ab67616d0000b273320d8311f82163512e3a4850",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851320d8311f82163512e3a4850",
+    "url": "https://open.spotify.com/track/1mMtHMkMm4wdTry0iAPMGY",
+    "duration_ms": 168697,
+    "popularity": null,
+    "rank": 8
+   },
+   {
+    "id": "1nKRU6cHgxQGXMJIuLnxMx",
+    "name": "Dariya (From \"Main Vaapas Aaunga\")",
+    "artists": [
+     "A.R. Rahman",
+     "Irshad Kamil",
+     "Armaan Khan",
+     "Romy"
+    ],
+    "album": "Main Vaapas Aaunga (Original Motion Picture Soundtrack)",
+    "art": "https://i.scdn.co/image/ab67616d0000b273320d8311f82163512e3a4850",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851320d8311f82163512e3a4850",
+    "url": "https://open.spotify.com/track/1nKRU6cHgxQGXMJIuLnxMx",
+    "duration_ms": 257894,
+    "popularity": null,
+    "rank": 9
+   },
+   {
+    "id": "62k9DGI74T1Bc5pbOuvRsT",
+    "name": "Zindagi",
+    "artists": [
+     "Sachin-Jigar",
+     "Papon"
+    ],
+    "album": "Bala (Original Motion Picture Soundtrack)",
+    "art": "https://i.scdn.co/image/ab67616d0000b273edf4d8f2fc1b6151ba609cbc",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851edf4d8f2fc1b6151ba609cbc",
+    "url": "https://open.spotify.com/track/62k9DGI74T1Bc5pbOuvRsT",
+    "duration_ms": 194666,
+    "popularity": null,
+    "rank": 10
+   },
+   {
+    "id": "4E5vIqszteCqguTt5CQnJf",
+    "name": "Maskara (From \"Main Vaapas Aaunga\")",
+    "artists": [
+     "A.R. Rahman",
+     "Vedang Raina",
+     "Nilanjana Ghosh",
+     "Irshad Kamil"
+    ],
+    "album": "Main Vaapas Aaunga (Original Motion Picture Soundtrack)",
+    "art": "https://i.scdn.co/image/ab67616d0000b273320d8311f82163512e3a4850",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851320d8311f82163512e3a4850",
+    "url": "https://open.spotify.com/track/4E5vIqszteCqguTt5CQnJf",
+    "duration_ms": 233741,
+    "popularity": null,
+    "rank": 11
+   },
+   {
+    "id": "3tIL20s2B1Bu1ciJSGVyuU",
+    "name": "Gehraiyaan",
+    "artists": [
+     "Apeksha Pai"
+    ],
+    "album": "Gehraiyaan",
+    "art": "https://i.scdn.co/image/ab67616d0000b273140eba3fe6030079f14b1336",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851140eba3fe6030079f14b1336",
+    "url": "https://open.spotify.com/track/3tIL20s2B1Bu1ciJSGVyuU",
+    "duration_ms": 197786,
+    "popularity": null,
+    "rank": 12
+   },
+   {
+    "id": "4bWS34JaQwnHVbZKoofXdw",
+    "name": "Kya Kamaal Hai (From \"Main Vaapas Aaunga\")",
+    "artists": [
+     "A.R. Rahman",
+     "Diljit Dosanjh",
+     "Irshad Kamil"
+    ],
+    "album": "Main Vaapas Aaunga (Original Motion Picture Soundtrack)",
+    "art": "https://i.scdn.co/image/ab67616d0000b273320d8311f82163512e3a4850",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851320d8311f82163512e3a4850",
+    "url": "https://open.spotify.com/track/4bWS34JaQwnHVbZKoofXdw",
+    "duration_ms": 299132,
+    "popularity": null,
+    "rank": 13
+   },
+   {
+    "id": "4xmOFjrjzD6TCoFE0CBlBV",
+    "name": "Vo Nahin (From \"Main Vaapas Aaunga\")",
+    "artists": [
+     "A.R. Rahman",
+     "Irshad Kamil",
+     "Adithya RK",
+     "Armaan Khan",
+     "Sameer Khan"
+    ],
+    "album": "Main Vaapas Aaunga (Original Motion Picture Soundtrack)",
+    "art": "https://i.scdn.co/image/ab67616d0000b273320d8311f82163512e3a4850",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851320d8311f82163512e3a4850",
+    "url": "https://open.spotify.com/track/4xmOFjrjzD6TCoFE0CBlBV",
+    "duration_ms": 287102,
+    "popularity": null,
+    "rank": 14
+   },
+   {
+    "id": "7EfMFxfyLAALt5m9UjRwHA",
+    "name": "Zindagi Se Badi (From \"Aspirants: S3\")",
+    "artists": [
+     "Sangeet Haldipur",
+     "Siddharth Haldipur",
+     "Krishna Bihari Noor"
+    ],
+    "album": "Aspirants: S3 (Music From The Series)",
+    "art": "https://i.scdn.co/image/ab67616d0000b273976f65bc35e55c871d1f3cba",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851976f65bc35e55c871d1f3cba",
+    "url": "https://open.spotify.com/track/7EfMFxfyLAALt5m9UjRwHA",
+    "duration_ms": 363000,
+    "popularity": null,
+    "rank": 15
+   },
+   {
+    "id": "2M0pYMPcnI67XWM8vgs8OS",
+    "name": "Laaree Chootee",
+    "artists": [
+     "Call"
+    ],
+    "album": "Dhoom",
+    "art": "https://i.scdn.co/image/ab67616d0000b2738c2b34ee29332a03678719ba",
+    "art_small": "https://i.scdn.co/image/ab67616d000048518c2b34ee29332a03678719ba",
+    "url": "https://open.spotify.com/track/2M0pYMPcnI67XWM8vgs8OS",
+    "duration_ms": 239405,
+    "popularity": null,
+    "rank": 16
+   },
+   {
+    "id": "3wuCCNCnBhJlwkIJTBZFiv",
+    "name": "They Don't Care About Us",
+    "artists": [
+     "Michael Jackson"
+    ],
+    "album": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
+    "art": "https://i.scdn.co/image/ab67616d0000b273b4a878f008a0eda552446701",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851b4a878f008a0eda552446701",
+    "url": "https://open.spotify.com/track/3wuCCNCnBhJlwkIJTBZFiv",
+    "duration_ms": 284310,
+    "popularity": null,
+    "rank": 17
+   },
+   {
+    "id": "4eyPvE2wxxLmjFLrUDbZoP",
+    "name": "Ishq Mastana (From \"Main Vaapas Aaunga\")",
+    "artists": [
+     "A.R. Rahman",
+     "Irshad Kamil",
+     "Mohit Chauhan",
+     "Nargis",
+     "Pooja Tiwari"
+    ],
+    "album": "Main Vaapas Aaunga (Original Motion Picture Soundtrack)",
+    "art": "https://i.scdn.co/image/ab67616d0000b273320d8311f82163512e3a4850",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851320d8311f82163512e3a4850",
+    "url": "https://open.spotify.com/track/4eyPvE2wxxLmjFLrUDbZoP",
+    "duration_ms": 274206,
+    "popularity": null,
+    "rank": 18
+   },
+   {
+    "id": "6k3XXCE1ZzwevQlxf8dNaw",
+    "name": "Love You Zindagi",
+    "artists": [
+     "Amit Trivedi",
+     "Jasleen Royal",
+     "Kausar Munir"
+    ],
+    "album": "Dear Zindagi (Original Motion Picture Soundtrack)",
+    "art": "https://i.scdn.co/image/ab67616d0000b273fcf31503544ab70a339ea2fe",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851fcf31503544ab70a339ea2fe",
+    "url": "https://open.spotify.com/track/6k3XXCE1ZzwevQlxf8dNaw",
+    "duration_ms": 232496,
+    "popularity": null,
+    "rank": 19
+   },
+   {
+    "id": "5icrEfubHCXlHEue9YUT3q",
+    "name": "Main Aur Tu",
+    "artists": [
+     "Shashwat Sachdev",
+     "Jasmine Sandlas",
+     "Reble"
+    ],
+    "album": "Dhurandhar The Revenge",
+    "art": "https://i.scdn.co/image/ab67616d0000b2734c3eeb98521e02693a46d6db",
+    "art_small": "https://i.scdn.co/image/ab67616d000048514c3eeb98521e02693a46d6db",
+    "url": "https://open.spotify.com/track/5icrEfubHCXlHEue9YUT3q",
+    "duration_ms": 210267,
+    "popularity": null,
+    "rank": 20
+   },
+   {
+    "id": "5pkBdzFwC3sAfOvxIvmhL1",
+    "name": "Ae Ajnabee | Coke Studio Bharat",
+    "artists": [
+     "Aditya Rikhari",
+     "Ravator",
+     "Kutle Khan"
+    ],
+    "album": "Ae Ajnabee | Coke Studio Bharat",
+    "art": "https://i.scdn.co/image/ab67616d0000b27365e02873dfdb2207d96235fd",
+    "art_small": "https://i.scdn.co/image/ab67616d0000485165e02873dfdb2207d96235fd",
+    "url": "https://open.spotify.com/track/5pkBdzFwC3sAfOvxIvmhL1",
+    "duration_ms": 259636,
+    "popularity": null,
+    "rank": 21
+   },
+   {
+    "id": "1wnozUBSe7OMpmZiTPJC5j",
+    "name": "Tum Tak (From \"Raanjhanaa\")",
+    "artists": [
+     "A.R. Rahman",
+     "Javed Ali",
+     "KIRTI SAGATHIA",
+     "Pooja AV"
+    ],
+    "album": "Raanjhanaa (Original Motion Picture Soundtrack)",
+    "art": "https://i.scdn.co/image/ab67616d0000b2730c556f210b927ca230f32241",
+    "art_small": "https://i.scdn.co/image/ab67616d000048510c556f210b927ca230f32241",
+    "url": "https://open.spotify.com/track/1wnozUBSe7OMpmZiTPJC5j",
+    "duration_ms": 304459,
+    "popularity": null,
+    "rank": 22
+   },
+   {
+    "id": "2Iik2dNqgN0GVAbKupbig5",
+    "name": "Rozaana Reprise",
+    "artists": [
+     "Lisa Mishra",
+     "Neel Adhikari",
+     "Amrita Saluja"
+    ],
+    "album": "Musafir Cafe (Songs from the Netflix Series)",
+    "art": "https://i.scdn.co/image/ab67616d0000b273423045e190b667abb5d2b748",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851423045e190b667abb5d2b748",
+    "url": "https://open.spotify.com/track/2Iik2dNqgN0GVAbKupbig5",
+    "duration_ms": 67203,
+    "popularity": null,
+    "rank": 23
+   },
+   {
+    "id": "2W45HI9Tfj1YdhMHJE0Lnd",
+    "name": "Kheench Maari",
+    "artists": [
+     "Raga",
+     "DG IMMORTALS",
+     "Nitin Randhawa"
+    ],
+    "album": "Kheench Maari",
+    "art": "https://i.scdn.co/image/ab67616d0000b2739415b32085000232172d075e",
+    "art_small": "https://i.scdn.co/image/ab67616d000048519415b32085000232172d075e",
+    "url": "https://open.spotify.com/track/2W45HI9Tfj1YdhMHJE0Lnd",
+    "duration_ms": 168571,
+    "popularity": null,
+    "rank": 24
+   },
+   {
+    "id": "4SC3DaUo0h3HsKWzhm6pAW",
+    "name": "Zaroori",
+    "artists": [
+     "Apeksha Pai"
+    ],
+    "album": "Zaroori",
+    "art": "https://i.scdn.co/image/ab67616d0000b27341877ed24217ebed76416bf3",
+    "art_small": "https://i.scdn.co/image/ab67616d0000485141877ed24217ebed76416bf3",
+    "url": "https://open.spotify.com/track/4SC3DaUo0h3HsKWzhm6pAW",
+    "duration_ms": 171880,
+    "popularity": null,
+    "rank": 25
+   },
+   {
+    "id": "5TVM67jKhJM48sY7tvHrMO",
+    "name": "432 Hz Sleep Music",
+    "artists": [
+     "Miracle Tones"
+    ],
+    "album": "432 Hz Deep Sleep",
+    "art": "https://i.scdn.co/image/ab67616d0000b2732f2dfda23744de37668fea04",
+    "art_small": "https://i.scdn.co/image/ab67616d000048512f2dfda23744de37668fea04",
+    "url": "https://open.spotify.com/track/5TVM67jKhJM48sY7tvHrMO",
+    "duration_ms": 168500,
+    "popularity": null,
+    "rank": 26
+   },
+   {
+    "id": "5a11x5PUFvJEadMRqtNtTr",
+    "name": "Piya O Re Piya",
+    "artists": [
+     "Sachin-Jigar",
+     "Atif Aslam",
+     "Shreya Ghoshal"
+    ],
+    "album": "Tere Naal Love Ho Gaya (Original Motion Picture Soundtrack)",
+    "art": "https://i.scdn.co/image/ab67616d0000b2739546c25ac50268b2b74842e7",
+    "art_small": "https://i.scdn.co/image/ab67616d000048519546c25ac50268b2b74842e7",
+    "url": "https://open.spotify.com/track/5a11x5PUFvJEadMRqtNtTr",
+    "duration_ms": 292746,
+    "popularity": null,
+    "rank": 27
+   },
+   {
+    "id": "7dm80EBbK2JFHcQdGDvF1D",
+    "name": "Achha Lagta Hai",
+    "artists": [
+     "Shankar-Ehsaan-Loy",
+     "Mohit Chauhan",
+     "Shreya Ghoshal",
+     "Neuman Pinto"
+    ],
+    "album": "Achha Lagta Hai",
+    "art": "https://i.scdn.co/image/ab67616d0000b2739d698f26c302e277c34502fb",
+    "art_small": "https://i.scdn.co/image/ab67616d000048519d698f26c302e277c34502fb",
+    "url": "https://open.spotify.com/track/7dm80EBbK2JFHcQdGDvF1D",
+    "duration_ms": 235800,
+    "popularity": null,
+    "rank": 28
+   },
+   {
+    "id": "2FtXzBnjlC51SrIJQTUnYv",
+    "name": "Yadi Nath Ka Naam Dayanidhi Hai",
+    "artists": [
+     "Tanvi Senjaliya"
+    ],
+    "album": "Yadi Nath Ka Naam Dayanidhi Hai",
+    "art": "https://i.scdn.co/image/ab67616d0000b27316fe1f9da489c5e5a25a4b07",
+    "art_small": "https://i.scdn.co/image/ab67616d0000485116fe1f9da489c5e5a25a4b07",
+    "url": "https://open.spotify.com/track/2FtXzBnjlC51SrIJQTUnYv",
+    "duration_ms": 527260,
+    "popularity": null,
+    "rank": 29
+   },
+   {
+    "id": "2MCjV49hbv76CtqKmG0pFq",
+    "name": "Dariya",
+    "artists": [
+     "Arko"
+    ],
+    "album": "Arko Top Hits",
+    "art": "https://i.scdn.co/image/ab67616d0000b273f3e0e15bd1f4b3d025b0e5c9",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851f3e0e15bd1f4b3d025b0e5c9",
+    "url": "https://open.spotify.com/track/2MCjV49hbv76CtqKmG0pFq",
+    "duration_ms": 217992,
+    "popularity": null,
+    "rank": 30
+   },
+   {
+    "id": "3RAqJsgCOpwiPhkqmEvgI0",
+    "name": "Pakeezah",
+    "artists": [
+     "Gulraj Singh"
+    ],
+    "album": "Ungli (Original Motion Picture Soundtrack)",
+    "art": "https://i.scdn.co/image/ab67616d0000b273730d609382b670f3704827b5",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851730d609382b670f3704827b5",
+    "url": "https://open.spotify.com/track/3RAqJsgCOpwiPhkqmEvgI0",
+    "duration_ms": 265193,
+    "popularity": null,
+    "rank": 31
+   },
+   {
+    "id": "6xwKNAUHeo2DbWNAPi8aEy",
+    "name": "Jaiye Sajana",
+    "artists": [
+     "Shashwat Sachdev",
+     "Jasmine Sandlas",
+     "Satinder Sartaaj"
+    ],
+    "album": "Dhurandhar The Revenge",
+    "art": "https://i.scdn.co/image/ab67616d0000b2734c3eeb98521e02693a46d6db",
+    "art_small": "https://i.scdn.co/image/ab67616d000048514c3eeb98521e02693a46d6db",
+    "url": "https://open.spotify.com/track/6xwKNAUHeo2DbWNAPi8aEy",
+    "duration_ms": 180004,
+    "popularity": null,
+    "rank": 32
+   },
+   {
+    "id": "65wdzLeZLnsJf0Z1CQrAKQ",
+    "name": "Maafi (From \"Pritam And Pedro\")",
+    "artists": [
+     "Shreya Ghoshal",
+     "Shantanu Moitra",
+     "Swanand Kirkire"
+    ],
+    "album": "Pritam And Pedro (Original Series Soundtrack)",
+    "art": "https://i.scdn.co/image/ab67616d0000b27395b9ff9723da21d87e6140cc",
+    "art_small": "https://i.scdn.co/image/ab67616d0000485195b9ff9723da21d87e6140cc",
+    "url": "https://open.spotify.com/track/65wdzLeZLnsJf0Z1CQrAKQ",
+    "duration_ms": 180960,
+    "popularity": null,
+    "rank": 33
+   },
+   {
+    "id": "3gixnmepHSsyAuho34rprN",
+    "name": "Khat",
+    "artists": [
+     "Navjot Ahuja"
+    ],
+    "album": "Khat",
+    "art": "https://i.scdn.co/image/ab67616d0000b273d421c37d9cf4bbee71844c24",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851d421c37d9cf4bbee71844c24",
+    "url": "https://open.spotify.com/track/3gixnmepHSsyAuho34rprN",
+    "duration_ms": 296222,
+    "popularity": null,
+    "rank": 34
+   },
+   {
+    "id": "3hAHATF4Na0arwtzmtjAOF",
+    "name": "Mujhe Tum Nazar Se",
+    "artists": [
+     "Ali Zafar"
+    ],
+    "album": "Mujhe Tum Nazar Se",
+    "art": "https://i.scdn.co/image/ab67616d0000b273a9801f0c3937f66197469f2f",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851a9801f0c3937f66197469f2f",
+    "url": "https://open.spotify.com/track/3hAHATF4Na0arwtzmtjAOF",
+    "duration_ms": 193811,
+    "popularity": null,
+    "rank": 35
+   },
+   {
+    "id": "00IBeiKNG6sFuK2QkQbhNo",
+    "name": "Main Parwaana - From \"Pippa\"",
+    "artists": [
+     "A.R. Rahman",
+     "Shellee",
+     "Arijit Singh",
+     "Pooja Tiwari",
+     "Nisa Shetty",
+     "Rakshita Suresh"
+    ],
+    "album": "Pippa (Original Motion Picture Soundtrack)",
+    "art": "https://i.scdn.co/image/ab67616d0000b27338de9812739fa4f32452118f",
+    "art_small": "https://i.scdn.co/image/ab67616d0000485138de9812739fa4f32452118f",
+    "url": "https://open.spotify.com/track/00IBeiKNG6sFuK2QkQbhNo",
+    "duration_ms": 323709,
+    "popularity": null,
+    "rank": 36
+   },
+   {
+    "id": "04tuiGTKPEcycWXgIozuNu",
+    "name": "Sufi",
+    "artists": [
+     "Raghav"
+    ],
+    "album": "Sufi - Single",
+    "art": "https://i.scdn.co/image/ab67616d0000b273066914169e824c73414eee4a",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851066914169e824c73414eee4a",
+    "url": "https://open.spotify.com/track/04tuiGTKPEcycWXgIozuNu",
+    "duration_ms": 251111,
+    "popularity": null,
+    "rank": 37
+   },
+   {
+    "id": "0PKLIjYe9K78lky2LxUz2P",
+    "name": "Kaafi Hai Na (From \"Musafir Cafe\")",
+    "artists": [
+     "Garvit - Priyansh",
+     "Priyansh Srivastava",
+     "Jonita Gandhi",
+     "Garvit Soni",
+     "Aniket Shukla"
+    ],
+    "album": "Kaafi Hai Na (From \"Musafir Cafe\")",
+    "art": "https://i.scdn.co/image/ab67616d0000b273808e7cc7276952cab80b52d4",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851808e7cc7276952cab80b52d4",
+    "url": "https://open.spotify.com/track/0PKLIjYe9K78lky2LxUz2P",
+    "duration_ms": 195050,
+    "popularity": null,
+    "rank": 38
+   },
+   {
+    "id": "0Rs32kcqjFYA1u58JtLoWB",
+    "name": "Leher - From “Cocktail 2”",
+    "artists": [
+     "Pritam",
+     "Arijit Singh",
+     "Amitabh Bhattacharya"
+    ],
+    "album": "Cocktail 2 (Original Motion Picture Soundtrack)",
+    "art": "https://i.scdn.co/image/ab67616d0000b273adb1a15b21a4b9728285ca94",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851adb1a15b21a4b9728285ca94",
+    "url": "https://open.spotify.com/track/0Rs32kcqjFYA1u58JtLoWB",
+    "duration_ms": 255037,
+    "popularity": null,
+    "rank": 39
+   },
+   {
+    "id": "0dUvKIQzOkofLditZUWbJY",
+    "name": "Mai Ni Meriye",
+    "artists": [
+     "Mohit Chauhan"
+    ],
+    "album": "Fitoor",
+    "art": "https://i.scdn.co/image/ab67616d0000b273e1cc217267ac17d1af687caa",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851e1cc217267ac17d1af687caa",
+    "url": "https://open.spotify.com/track/0dUvKIQzOkofLditZUWbJY",
+    "duration_ms": 334453,
+    "popularity": null,
+    "rank": 40
+   },
+   {
+    "id": "0e9F6XaR8gcfEqesSwEebs",
+    "name": "Namami Shamishaan Nirwan Rupam",
+    "artists": [
+     "Mrityunjay Hirmeth"
+    ],
+    "album": "Namami Shamishaan Nirwan Rupam",
+    "art": "https://i.scdn.co/image/ab67616d0000b2734e7f8538e4967f2bb32335fb",
+    "art_small": "https://i.scdn.co/image/ab67616d000048514e7f8538e4967f2bb32335fb",
+    "url": "https://open.spotify.com/track/0e9F6XaR8gcfEqesSwEebs",
+    "duration_ms": 390118,
+    "popularity": null,
+    "rank": 41
+   },
+   {
+    "id": "0gRNu9dVzi5aC87AI1empZ",
+    "name": "Jab Se Tere Naina",
+    "artists": [
+     "Monty Sharma",
+     "Shaan"
+    ],
+    "album": "Saawariya (Original Motion Picture Soundtrack)",
+    "art": "https://i.scdn.co/image/ab67616d0000b273bd848c36d02a36a7610d9641",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851bd848c36d02a36a7610d9641",
+    "url": "https://open.spotify.com/track/0gRNu9dVzi5aC87AI1empZ",
+    "duration_ms": 284573,
+    "popularity": null,
+    "rank": 42
+   },
+   {
+    "id": "0i8x6R8GDAZASVAtvqw9Cw",
+    "name": "The Humblest Power",
+    "artists": [
+     "Ries"
+    ],
+    "album": "Inside Myself",
+    "art": "https://i.scdn.co/image/ab67616d0000b2730236f3d162a76d662a4881c9",
+    "art_small": "https://i.scdn.co/image/ab67616d000048510236f3d162a76d662a4881c9",
+    "url": "https://open.spotify.com/track/0i8x6R8GDAZASVAtvqw9Cw",
+    "duration_ms": 221187,
+    "popularity": null,
+    "rank": 43
+   },
+   {
+    "id": "0kosUz0jePvjiz4ctmR6wL",
+    "name": "Dai Dai",
+    "artists": [
+     "Shakira",
+     "Burna Boy"
+    ],
+    "album": "Dai Dai",
+    "art": "https://i.scdn.co/image/ab67616d0000b27303cadf1b3fe324c1dc710ed4",
+    "art_small": "https://i.scdn.co/image/ab67616d0000485103cadf1b3fe324c1dc710ed4",
+    "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL",
+    "duration_ms": 223448,
+    "popularity": null,
+    "rank": 44
+   },
+   {
+    "id": "1O5mTSQa0sCce9ghhDqIZl",
+    "name": "Jashn-E-Bahaaraa",
+    "artists": [
+     "A.R. Rahman",
+     "Javed Ali"
+    ],
+    "album": "Jodhaa Akbar (Original Motion Picture Soundtrack)",
+    "art": "https://i.scdn.co/image/ab67616d0000b273b5af9d80b5b84a3fd3c13f0f",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851b5af9d80b5b84a3fd3c13f0f",
+    "url": "https://open.spotify.com/track/1O5mTSQa0sCce9ghhDqIZl",
+    "duration_ms": 315173,
+    "popularity": null,
+    "rank": 45
+   },
+   {
+    "id": "1V3PJZD3Qg6ur1ABKQQiQL",
+    "name": "Hai Pyaar Kya",
+    "artists": [
+     "Jubin Nautiyal",
+     "Rocky-Jubin",
+     "Rocky Khanna"
+    ],
+    "album": "Hai Pyaar Kya",
+    "art": "https://i.scdn.co/image/ab67616d0000b2735387b0285b8471d53ae60d72",
+    "art_small": "https://i.scdn.co/image/ab67616d000048515387b0285b8471d53ae60d72",
+    "url": "https://open.spotify.com/track/1V3PJZD3Qg6ur1ABKQQiQL",
+    "duration_ms": 210756,
+    "popularity": null,
+    "rank": 46
+   },
+   {
+    "id": "1mhBPosKQsDnyMtJRCVkDf",
+    "name": "Beautiful Day",
+    "artists": [
+     "Aarya"
+    ],
+    "album": "Beautiful Day",
+    "art": "https://i.scdn.co/image/ab67616d0000b273a37382d654047077d93c6aab",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851a37382d654047077d93c6aab",
+    "url": "https://open.spotify.com/track/1mhBPosKQsDnyMtJRCVkDf",
+    "duration_ms": 216275,
+    "popularity": null,
+    "rank": 47
+   },
+   {
+    "id": "21GRCs9bqfC14Q5PB5Nggw",
+    "name": "Rozaana",
+    "artists": [
+     "Lisa Mishra",
+     "Neel Adhikari",
+     "Amrita Saluja"
+    ],
+    "album": "Musafir Cafe (Songs from the Netflix Series)",
+    "art": "https://i.scdn.co/image/ab67616d0000b273423045e190b667abb5d2b748",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851423045e190b667abb5d2b748",
+    "url": "https://open.spotify.com/track/21GRCs9bqfC14Q5PB5Nggw",
+    "duration_ms": 135093,
+    "popularity": null,
+    "rank": 48
+   },
+   {
+    "id": "24ZteCHa8PoPYMzKYaITbE",
+    "name": "Aaina",
+    "artists": [
+     "Apeksha Pai"
+    ],
+    "album": "Aaina",
+    "art": "https://i.scdn.co/image/ab67616d0000b2732b70552c1a39d0d01c38617a",
+    "art_small": "https://i.scdn.co/image/ab67616d000048512b70552c1a39d0d01c38617a",
+    "url": "https://open.spotify.com/track/24ZteCHa8PoPYMzKYaITbE",
+    "duration_ms": 209340,
+    "popularity": null,
+    "rank": 49
+   },
+   {
+    "id": "29pvaDgvAJk7Gr3COP1vhn",
+    "name": "Just a Boy",
+    "artists": [
+     "DrINsaNE"
+    ],
+    "album": "Just a Boy",
+    "art": "https://i.scdn.co/image/ab67616d0000b2733689a56682b5caabc0d77436",
+    "art_small": "https://i.scdn.co/image/ab67616d000048513689a56682b5caabc0d77436",
+    "url": "https://open.spotify.com/track/29pvaDgvAJk7Gr3COP1vhn",
+    "duration_ms": 195672,
+    "popularity": null,
+    "rank": 50
+   }
+  ],
+  "long_term": [
+   {
+    "id": "5YbgcwHjQhdT1BYQ4rxWlD",
+    "name": "Don't Worry Be Happy",
+    "artists": [
+     "Bobby McFerrin"
+    ],
+    "album": "The Collection",
+    "art": "https://i.scdn.co/image/ab67616d0000b2734d502f3148f70459329e02fd",
+    "art_small": "https://i.scdn.co/image/ab67616d000048514d502f3148f70459329e02fd",
+    "url": "https://open.spotify.com/track/5YbgcwHjQhdT1BYQ4rxWlD",
+    "duration_ms": 292400,
+    "popularity": null,
+    "rank": 1
+   },
+   {
+    "id": "3QspmlfK7myCWJWWl2bywt",
+    "name": "Dhurandhar - Title Track (From \"Dhurandhar\")",
+    "artists": [
+     "Shashwat Sachdev",
+     "Hanumankind",
+     "Jasmine Sandlas",
+     "Sudhir Yaduvanshi",
+     "Charanjit Ahuja",
+     "Muhammad Sadiq",
+     "Ranjit Kaur",
+     "Babu Singh Maan"
+    ],
+    "album": "Dhurandhar - Title Track (From \"Dhurandhar\")",
+    "art": "https://i.scdn.co/image/ab67616d0000b273a501eb791db6baaa2c4deab8",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851a501eb791db6baaa2c4deab8",
+    "url": "https://open.spotify.com/track/3QspmlfK7myCWJWWl2bywt",
+    "duration_ms": 155590,
+    "popularity": null,
+    "rank": 2
+   },
+   {
+    "id": "1Jsos1mzwTwYGOndYN5h8V",
+    "name": "Farebi",
+    "artists": [
+     "Chaar Diwaari",
+     "Raftaar"
+    ],
+    "album": "Farebi",
+    "art": "https://i.scdn.co/image/ab67616d0000b2736d7f6a0fd312fb31ca3f91fb",
+    "art_small": "https://i.scdn.co/image/ab67616d000048516d7f6a0fd312fb31ca3f91fb",
+    "url": "https://open.spotify.com/track/1Jsos1mzwTwYGOndYN5h8V",
+    "duration_ms": 234671,
+    "popularity": null,
+    "rank": 3
+   },
+   {
+    "id": "50EDY0zGZteoBy3hORXSba",
+    "name": "Tere Paas Main - Female Version (From \"Main Vaapas Aaunga\")",
+    "artists": [
+     "A.R. Rahman",
+     "Irshad Kamil",
+     "Deepali Sahay"
+    ],
+    "album": "Main Vaapas Aaunga (Original Motion Picture Soundtrack)",
+    "art": "https://i.scdn.co/image/ab67616d0000b273320d8311f82163512e3a4850",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851320d8311f82163512e3a4850",
+    "url": "https://open.spotify.com/track/50EDY0zGZteoBy3hORXSba",
+    "duration_ms": 244647,
+    "popularity": null,
+    "rank": 4
+   },
+   {
+    "id": "7qkxyDKLcLSHW1j5Of4x8g",
+    "name": "Sunehra",
+    "artists": [
+     "Lost Stories",
+     "JAI DHIR"
+    ],
+    "album": "Marigold Soundsystem II",
+    "art": "https://i.scdn.co/image/ab67616d0000b273d685344464dc82ddd17814a2",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851d685344464dc82ddd17814a2",
+    "url": "https://open.spotify.com/track/7qkxyDKLcLSHW1j5Of4x8g",
+    "duration_ms": 144600,
+    "popularity": null,
+    "rank": 5
+   },
+   {
+    "id": "3UTOTYn9nfA4Rfb4r9KWvi",
+    "name": "Chali Kahani",
+    "artists": [
+     "Sukhwinder Singh",
+     "Haricharan",
+     "Haripriya"
+    ],
+    "album": "Tamasha",
+    "art": "https://i.scdn.co/image/ab67616d0000b273da50894e074ecd5ce61de0a1",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851da50894e074ecd5ce61de0a1",
+    "url": "https://open.spotify.com/track/3UTOTYn9nfA4Rfb4r9KWvi",
+    "duration_ms": 319576,
+    "popularity": null,
+    "rank": 6
+   },
+   {
+    "id": "4iLMuGacSurMAKeQyIwFeJ",
+    "name": "Bairan",
+    "artists": [
+     "Banjaare"
+    ],
+    "album": "Bairan",
+    "art": "https://i.scdn.co/image/ab67616d0000b273d6e3f2051d6342e2c19f18e6",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851d6e3f2051d6342e2c19f18e6",
+    "url": "https://open.spotify.com/track/4iLMuGacSurMAKeQyIwFeJ",
+    "duration_ms": 150857,
+    "popularity": null,
+    "rank": 7
+   },
+   {
+    "id": "0Y6YW1552df031DjV8qBHv",
+    "name": "Gehra Hua (From \"Dhurandhar\")",
+    "artists": [
+     "Shashwat Sachdev",
+     "Arijit Singh",
+     "Irshad Kamil",
+     "Armaan Khan"
+    ],
+    "album": "Gehra Hua (From \"Dhurandhar\")",
+    "art": "https://i.scdn.co/image/ab67616d0000b273d4d9818ded27c1e53bd3c2a0",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851d4d9818ded27c1e53bd3c2a0",
+    "url": "https://open.spotify.com/track/0Y6YW1552df031DjV8qBHv",
+    "duration_ms": 362400,
+    "popularity": null,
+    "rank": 8
+   },
+   {
+    "id": "0S2Ya5ds1PuCnef3Hubxa6",
+    "name": "Haye Ri Duniya - Live",
+    "artists": [
+     "Rashmeet Kaur"
+    ],
+    "album": "KAURA (Live)",
+    "art": "https://i.scdn.co/image/ab67616d0000b2730661cf952b7b969cbb97e4e9",
+    "art_small": "https://i.scdn.co/image/ab67616d000048510661cf952b7b969cbb97e4e9",
+    "url": "https://open.spotify.com/track/0S2Ya5ds1PuCnef3Hubxa6",
+    "duration_ms": 189877,
+    "popularity": null,
+    "rank": 9
+   },
+   {
+    "id": "7KGYSXZ3gvQEhaBAxnorAZ",
+    "name": "790001 (Outro)",
+    "artists": [
+     "Sono Lem",
+     "Longmey",
+     "Madonyx",
+     "2'7"
+    ],
+    "album": "Rehab Recovery",
+    "art": "https://i.scdn.co/image/ab67616d0000b2736704f23c10266b4ec448ac12",
+    "art_small": "https://i.scdn.co/image/ab67616d000048516704f23c10266b4ec448ac12",
+    "url": "https://open.spotify.com/track/7KGYSXZ3gvQEhaBAxnorAZ",
+    "duration_ms": 208408,
+    "popularity": null,
+    "rank": 10
+   },
+   {
+    "id": "08M1HqLsOYeWetO7WYNrIf",
+    "name": "Khabar",
+    "artists": [
+     "Akash Kaushal",
+     "Raghav Meattle"
+    ],
+    "album": "Khabar",
+    "art": "https://i.scdn.co/image/ab67616d0000b2739a1617b898859c130f5dbc88",
+    "art_small": "https://i.scdn.co/image/ab67616d000048519a1617b898859c130f5dbc88",
+    "url": "https://open.spotify.com/track/08M1HqLsOYeWetO7WYNrIf",
+    "duration_ms": 213578,
+    "popularity": null,
+    "rank": 11
+   },
+   {
+    "id": "7Hybzi2nMsBsg2Fs2aKUh7",
+    "name": "Sun",
+    "artists": [
+     "Derik Fein"
+    ],
+    "album": "Sun",
+    "art": "https://i.scdn.co/image/ab67616d0000b273d1bcd5f353625ad1a24006ab",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851d1bcd5f353625ad1a24006ab",
+    "url": "https://open.spotify.com/track/7Hybzi2nMsBsg2Fs2aKUh7",
+    "duration_ms": 182400,
+    "popularity": null,
+    "rank": 12
+   },
+   {
+    "id": "5kwldaZvtbiTmRYsmlyxAN",
+    "name": "Paisa Hai Toh",
+    "artists": [
+     "Sachin-Jigar",
+     "Vishal Dadlani",
+     "Mellow D",
+     "Jigar Saraiya"
+    ],
+    "album": "Farzi (Original Series Soundtrack)",
+    "art": "https://i.scdn.co/image/ab67616d0000b273e27877f00204147353f0b7f4",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851e27877f00204147353f0b7f4",
+    "url": "https://open.spotify.com/track/5kwldaZvtbiTmRYsmlyxAN",
+    "duration_ms": 188586,
+    "popularity": null,
+    "rank": 13
+   },
+   {
+    "id": "2W45HI9Tfj1YdhMHJE0Lnd",
+    "name": "Kheench Maari",
+    "artists": [
+     "Raga",
+     "DG IMMORTALS",
+     "Nitin Randhawa"
+    ],
+    "album": "Kheench Maari",
+    "art": "https://i.scdn.co/image/ab67616d0000b2739415b32085000232172d075e",
+    "art_small": "https://i.scdn.co/image/ab67616d000048519415b32085000232172d075e",
+    "url": "https://open.spotify.com/track/2W45HI9Tfj1YdhMHJE0Lnd",
+    "duration_ms": 168571,
+    "popularity": null,
+    "rank": 14
+   },
+   {
+    "id": "60nxFG3LCviPvdTX5JU2iB",
+    "name": "Vida Karo",
+    "artists": [
+     "Arijit Singh",
+     "Jonita Gandhi",
+     "A.R. Rahman",
+     "Irshad Kamil"
+    ],
+    "album": "Amar Singh Chamkila",
+    "art": "https://i.scdn.co/image/ab67616d0000b273fb2509cb3d3ae44931245773",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851fb2509cb3d3ae44931245773",
+    "url": "https://open.spotify.com/track/60nxFG3LCviPvdTX5JU2iB",
+    "duration_ms": 270217,
+    "popularity": null,
+    "rank": 15
+   },
+   {
+    "id": "0mXZmz0ucfbaxJZMiSSjQr",
+    "name": "Aaqa",
+    "artists": [
+     "Abida Parveen",
+     "Ali Sethi"
+    ],
+    "album": "Coke Studio: Season 9",
+    "art": "https://i.scdn.co/image/ab67616d0000b27382cb4f76bccadf55ae98be49",
+    "art_small": "https://i.scdn.co/image/ab67616d0000485182cb4f76bccadf55ae98be49",
+    "url": "https://open.spotify.com/track/0mXZmz0ucfbaxJZMiSSjQr",
+    "duration_ms": 507000,
+    "popularity": null,
+    "rank": 16
+   },
+   {
+    "id": "42TMa2hgBNjte4uV7jNCnQ",
+    "name": "Baller",
+    "artists": [
+     "Shubh",
+     "Ikky"
+    ],
+    "album": "Baller",
+    "art": "https://i.scdn.co/image/ab67616d0000b27352919a0cb296d317f6bbeebd",
+    "art_small": "https://i.scdn.co/image/ab67616d0000485152919a0cb296d317f6bbeebd",
+    "url": "https://open.spotify.com/track/42TMa2hgBNjte4uV7jNCnQ",
+    "duration_ms": 148188,
+    "popularity": null,
+    "rank": 17
+   },
+   {
+    "id": "4Nu6be6Wgvqq60hFoRMqsc",
+    "name": "Dooriyan",
+    "artists": [
+     "Pritam",
+     "Mohit Chauhan"
+    ],
+    "album": "Love Aaj Kal (Original Motion Picture Soundtrack)",
+    "art": "https://i.scdn.co/image/ab67616d0000b273379298ceb1e3c8e52048eeba",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851379298ceb1e3c8e52048eeba",
+    "url": "https://open.spotify.com/track/4Nu6be6Wgvqq60hFoRMqsc",
+    "duration_ms": 337360,
+    "popularity": null,
+    "rank": 18
+   },
+   {
+    "id": "5YVHAfMNjVPbRg6ZPsOcQw",
+    "name": "Tumhare Aane Se",
+    "artists": [
+     "Ashu Shukla"
+    ],
+    "album": "Tumhare Aane Se",
+    "art": "https://i.scdn.co/image/ab67616d0000b2738d3533a1d8e9371930c49d9f",
+    "art_small": "https://i.scdn.co/image/ab67616d000048518d3533a1d8e9371930c49d9f",
+    "url": "https://open.spotify.com/track/5YVHAfMNjVPbRg6ZPsOcQw",
+    "duration_ms": 208888,
+    "popularity": null,
+    "rank": 19
+   },
+   {
+    "id": "1M1ljORLqwYogS2nk0oymW",
+    "name": "Yaad",
+    "artists": [
+     "Pritam",
+     "Papon",
+     "Momin Khan Momin",
+     "Sandeep Shrivastava"
+    ],
+    "album": "Metro ... In Dino (Side A)",
+    "art": "https://i.scdn.co/image/ab67616d0000b273c143807ae8bcde3ca124abbd",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851c143807ae8bcde3ca124abbd",
+    "url": "https://open.spotify.com/track/1M1ljORLqwYogS2nk0oymW",
+    "duration_ms": 283215,
+    "popularity": null,
+    "rank": 20
+   },
+   {
+    "id": "3vLFA2nTU6usnRbYrmVo6f",
+    "name": "Itna Na Mujhse Tu Pyar Badha",
+    "artists": [
+     "Talat Mahmood",
+     "Lata Mangeshkar",
+     "Salil Chowdhury"
+    ],
+    "album": "Chhaya",
+    "art": "https://i.scdn.co/image/ab67616d0000b2730ec64fd2f466c3799a63c900",
+    "art_small": "https://i.scdn.co/image/ab67616d000048510ec64fd2f466c3799a63c900",
+    "url": "https://open.spotify.com/track/3vLFA2nTU6usnRbYrmVo6f",
+    "duration_ms": 235333,
+    "popularity": null,
+    "rank": 21
+   },
+   {
+    "id": "7eQl3Yqv35ioqUfveKHitE",
+    "name": "Tum Se Hi",
+    "artists": [
+     "Pritam",
+     "Mohit Chauhan",
+     "Irshad Kamil"
+    ],
+    "album": "Jab We Met",
+    "art": "https://i.scdn.co/image/ab67616d0000b27352fe6875028c892308ffc2f7",
+    "art_small": "https://i.scdn.co/image/ab67616d0000485152fe6875028c892308ffc2f7",
+    "url": "https://open.spotify.com/track/7eQl3Yqv35ioqUfveKHitE",
+    "duration_ms": 321225,
+    "popularity": null,
+    "rank": 22
+   },
+   {
+    "id": "6k3XXCE1ZzwevQlxf8dNaw",
+    "name": "Love You Zindagi",
+    "artists": [
+     "Amit Trivedi",
+     "Jasleen Royal",
+     "Kausar Munir"
+    ],
+    "album": "Dear Zindagi (Original Motion Picture Soundtrack)",
+    "art": "https://i.scdn.co/image/ab67616d0000b273fcf31503544ab70a339ea2fe",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851fcf31503544ab70a339ea2fe",
+    "url": "https://open.spotify.com/track/6k3XXCE1ZzwevQlxf8dNaw",
+    "duration_ms": 232496,
+    "popularity": null,
+    "rank": 23
+   },
+   {
+    "id": "3iIR2YfNdC9CYhA8ieF5UO",
+    "name": "Rana Kumbha (From \"Varanasi\")",
+    "artists": [
+     "M. M. Keeravaani",
+     "Aditya Iyengar",
+     "Chaitanya Prasad"
+    ],
+    "album": "Rana Kumbha (From \"Varanasi\")",
+    "art": "https://i.scdn.co/image/ab67616d0000b273b46c6a5b7d9eaf384f20c1a0",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851b46c6a5b7d9eaf384f20c1a0",
+    "url": "https://open.spotify.com/track/3iIR2YfNdC9CYhA8ieF5UO",
+    "duration_ms": 100130,
+    "popularity": null,
+    "rank": 24
+   },
+   {
+    "id": "6q7bXTv3yBedHblKRoC5uu",
+    "name": "Kadam",
+    "artists": [
+     "Prateek Kuhad"
+    ],
+    "album": "Karwaan",
+    "art": "https://i.scdn.co/image/ab67616d0000b273f07f0455c6cc38f14105acfb",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851f07f0455c6cc38f14105acfb",
+    "url": "https://open.spotify.com/track/6q7bXTv3yBedHblKRoC5uu",
+    "duration_ms": 214603,
+    "popularity": null,
+    "rank": 25
+   },
+   {
+    "id": "4720h6axuBgYkmESfedyEc",
+    "name": "Aur Mohabbat Kitni Karoon",
+    "artists": [
+     "Pritam",
+     "Arijit Singh",
+     "Sandeep Shrivastava"
+    ],
+    "album": "Metro ... In Dino (Side A)",
+    "art": "https://i.scdn.co/image/ab67616d0000b273c143807ae8bcde3ca124abbd",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851c143807ae8bcde3ca124abbd",
+    "url": "https://open.spotify.com/track/4720h6axuBgYkmESfedyEc",
+    "duration_ms": 236101,
+    "popularity": null,
+    "rank": 26
+   },
+   {
+    "id": "0TrsGqtFXMWCrF9pPMICY9",
+    "name": "Paon Ki Jutti",
+    "artists": [
+     "Jyoti Nooran",
+     "Jaani",
+     "Bunny"
+    ],
+    "album": "Paon Ki Jutti",
+    "art": "https://i.scdn.co/image/ab67616d0000b2731448411acdc582926d2fd6ba",
+    "art_small": "https://i.scdn.co/image/ab67616d000048511448411acdc582926d2fd6ba",
+    "url": "https://open.spotify.com/track/0TrsGqtFXMWCrF9pPMICY9",
+    "duration_ms": 208965,
+    "popularity": null,
+    "rank": 27
+   },
+   {
+    "id": "0bdA7CMrqT1qJVwwhw2Yn4",
+    "name": "Jaan Se Guzarte Hain",
+    "artists": [
+     "Shashwat Sachdev",
+     "Khan Saab"
+    ],
+    "album": "Dhurandhar The Revenge",
+    "art": "https://i.scdn.co/image/ab67616d0000b27303cf26f1a24260acb1ae15da",
+    "art_small": "https://i.scdn.co/image/ab67616d0000485103cf26f1a24260acb1ae15da",
+    "url": "https://open.spotify.com/track/0bdA7CMrqT1qJVwwhw2Yn4",
+    "duration_ms": 332116,
+    "popularity": null,
+    "rank": 28
+   },
+   {
+    "id": "1vGFCl9e0zVpFSl2K8oOGZ",
+    "name": "HMM",
+    "artists": [
+     "KhullarG",
+     "Bluish Music"
+    ],
+    "album": "HMM",
+    "art": "https://i.scdn.co/image/ab67616d0000b273c63f206dcb94b6cf57fbfcca",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851c63f206dcb94b6cf57fbfcca",
+    "url": "https://open.spotify.com/track/1vGFCl9e0zVpFSl2K8oOGZ",
+    "duration_ms": 184000,
+    "popularity": null,
+    "rank": 29
+   },
+   {
+    "id": "2w5iEdgKsFms9vAFq2n3Yy",
+    "name": "if you only knew",
+    "artists": [
+     "Alexander Stewart"
+    ],
+    "album": "if you only knew",
+    "art": "https://i.scdn.co/image/ab67616d0000b273c8e291068afa6ef5124de9ea",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851c8e291068afa6ef5124de9ea",
+    "url": "https://open.spotify.com/track/2w5iEdgKsFms9vAFq2n3Yy",
+    "duration_ms": 162146,
+    "popularity": null,
+    "rank": 30
+   },
+   {
+    "id": "2y7fdOLYBFFbuuMs96KndV",
+    "name": "Par Chanaa De",
+    "artists": [
+     "Shilpa Rao",
+     "Noori"
+    ],
+    "album": "Coke Studio: Season 9",
+    "art": "https://i.scdn.co/image/ab67616d0000b27382cb4f76bccadf55ae98be49",
+    "art_small": "https://i.scdn.co/image/ab67616d0000485182cb4f76bccadf55ae98be49",
+    "url": "https://open.spotify.com/track/2y7fdOLYBFFbuuMs96KndV",
+    "duration_ms": 666000,
+    "popularity": null,
+    "rank": 31
+   },
+   {
+    "id": "3aaiAWCet6sbfOfLSn3g7i",
+    "name": "Tu Chahiye",
+    "artists": [
+     "Pritam",
+     "Atif Aslam",
+     "Amitabh Bhattacharya"
+    ],
+    "album": "Bajrangi Bhaijaan",
+    "art": "https://i.scdn.co/image/ab67616d0000b273e7f1ff44b74df429307f4164",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851e7f1ff44b74df429307f4164",
+    "url": "https://open.spotify.com/track/3aaiAWCet6sbfOfLSn3g7i",
+    "duration_ms": 272680,
+    "popularity": null,
+    "rank": 32
+   },
+   {
+    "id": "2HHmJ0oUtxDLXhn7uEDxYW",
+    "name": "Zamaana Lage",
+    "artists": [
+     "Pritam",
+     "Arijit Singh",
+     "Shashwat Singh",
+     "Qaisar-Ul-Jafri",
+     "Sandeep Shrivastava"
+    ],
+    "album": "Metro ... In Dino (Side A)",
+    "art": "https://i.scdn.co/image/ab67616d0000b273c143807ae8bcde3ca124abbd",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851c143807ae8bcde3ca124abbd",
+    "url": "https://open.spotify.com/track/2HHmJ0oUtxDLXhn7uEDxYW",
+    "duration_ms": 196138,
+    "popularity": null,
+    "rank": 33
+   },
+   {
+    "id": "1VvGJIAjhGdB7InVP9NA7V",
+    "name": "Haareya",
+    "artists": [
+     "Sachin-Jigar",
+     "Arijit Singh",
+     "Priya Saraiya"
+    ],
+    "album": "Meri Pyaari Bindu",
+    "art": "https://i.scdn.co/image/ab67616d0000b273d2f3f606e8d06c7a6a340a48",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851d2f3f606e8d06c7a6a340a48",
+    "url": "https://open.spotify.com/track/1VvGJIAjhGdB7InVP9NA7V",
+    "duration_ms": 214735,
+    "popularity": null,
+    "rank": 34
+   },
+   {
+    "id": "00IBeiKNG6sFuK2QkQbhNo",
+    "name": "Main Parwaana - From \"Pippa\"",
+    "artists": [
+     "A.R. Rahman",
+     "Shellee",
+     "Arijit Singh",
+     "Pooja Tiwari",
+     "Nisa Shetty",
+     "Rakshita Suresh"
+    ],
+    "album": "Pippa (Original Motion Picture Soundtrack)",
+    "art": "https://i.scdn.co/image/ab67616d0000b27338de9812739fa4f32452118f",
+    "art_small": "https://i.scdn.co/image/ab67616d0000485138de9812739fa4f32452118f",
+    "url": "https://open.spotify.com/track/00IBeiKNG6sFuK2QkQbhNo",
+    "duration_ms": 323709,
+    "popularity": null,
+    "rank": 35
+   },
+   {
+    "id": "0KPjvg4cKoT0eNK2O4oOAX",
+    "name": "JUST A BOY",
+    "artists": [
+     "DrINsaNE"
+    ],
+    "album": "JUST A BOY",
+    "art": "https://i.scdn.co/image/ab67616d0000b2733a63f1f707fa2fa328a6a269",
+    "art_small": "https://i.scdn.co/image/ab67616d000048513a63f1f707fa2fa328a6a269",
+    "url": "https://open.spotify.com/track/0KPjvg4cKoT0eNK2O4oOAX",
+    "duration_ms": 195919,
+    "popularity": null,
+    "rank": 36
+   },
+   {
+    "id": "38fNF1FRlrNh8e16Vc8iap",
+    "name": "Dheere Dheere (From \"Main Vaapas Aaunga\")",
+    "artists": [
+     "A.R. Rahman",
+     "Irshad Kamil",
+     "Faheem Abdullah",
+     "Shilpa Rao",
+     "Antara Nandy",
+     "Heer"
+    ],
+    "album": "Main Vaapas Aaunga (Original Motion Picture Soundtrack)",
+    "art": "https://i.scdn.co/image/ab67616d0000b273320d8311f82163512e3a4850",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851320d8311f82163512e3a4850",
+    "url": "https://open.spotify.com/track/38fNF1FRlrNh8e16Vc8iap",
+    "duration_ms": 251428,
+    "popularity": null,
+    "rank": 37
+   },
+   {
+    "id": "4nriYsKSq1VmiamjZOB4Tp",
+    "name": "Jaadui (From \"Tu Jhoothi Main Makkaar\")",
+    "artists": [
+     "Pritam",
+     "Jubin Nautiyal",
+     "Amitabh Bhattacharya"
+    ],
+    "album": "Jaadui (From \"Tu Jhoothi Main Makkaar\")",
+    "art": "https://i.scdn.co/image/ab67616d0000b27356eb8ba91fb3333b57daf676",
+    "art_small": "https://i.scdn.co/image/ab67616d0000485156eb8ba91fb3333b57daf676",
+    "url": "https://open.spotify.com/track/4nriYsKSq1VmiamjZOB4Tp",
+    "duration_ms": 222375,
+    "popularity": null,
+    "rank": 38
+   },
+   {
+    "id": "5QW9K4A1gMnIi94YUxtsfM",
+    "name": "Phir Aur Kya Chahiye (From \"Zara Hatke Zara Bachke\")",
+    "artists": [
+     "Sachin-Jigar",
+     "Arijit Singh",
+     "Amitabh Bhattacharya"
+    ],
+    "album": "Phir Aur Kya Chahiye (From \"Zara Hatke Zara Bachke\")",
+    "art": "https://i.scdn.co/image/ab67616d0000b273bf8097b2589277bd3d8f7a2d",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851bf8097b2589277bd3d8f7a2d",
+    "url": "https://open.spotify.com/track/5QW9K4A1gMnIi94YUxtsfM",
+    "duration_ms": 266075,
+    "popularity": null,
+    "rank": 39
+   },
+   {
+    "id": "6GXtjEpfXTFECdmGChpkUi",
+    "name": "Vacation",
+    "artists": [
+     "Dirty Heads"
+    ],
+    "album": "SWIM TEAM (Special Edition)",
+    "art": "https://i.scdn.co/image/ab67616d0000b2738f06b572c9b91ec1c283bc2c",
+    "art_small": "https://i.scdn.co/image/ab67616d000048518f06b572c9b91ec1c283bc2c",
+    "url": "https://open.spotify.com/track/6GXtjEpfXTFECdmGChpkUi",
+    "duration_ms": 209721,
+    "popularity": null,
+    "rank": 40
+   },
+   {
+    "id": "6NwseBBU7N5ng39DvnSAdA",
+    "name": "Two Hearts",
+    "artists": [
+     "Dermot Kennedy"
+    ],
+    "album": "I've told the trees everything",
+    "art": "https://i.scdn.co/image/ab67616d0000b2735cd60dad0954db9881f03373",
+    "art_small": "https://i.scdn.co/image/ab67616d000048515cd60dad0954db9881f03373",
+    "url": "https://open.spotify.com/track/6NwseBBU7N5ng39DvnSAdA",
+    "duration_ms": 246796,
+    "popularity": null,
+    "rank": 41
+   },
+   {
+    "id": "6za0VNkFezXamgUjJi1nMx",
+    "name": "Destiny - Mann Atkeya",
+    "artists": [
+     "Shashwat Sachdev",
+     "Token",
+     "Vaibhav Gupta",
+     "Shahzad Ali"
+    ],
+    "album": "Dhurandhar The Revenge",
+    "art": "https://i.scdn.co/image/ab67616d0000b27303cf26f1a24260acb1ae15da",
+    "art_small": "https://i.scdn.co/image/ab67616d0000485103cf26f1a24260acb1ae15da",
+    "url": "https://open.spotify.com/track/6za0VNkFezXamgUjJi1nMx",
+    "duration_ms": 226103,
+    "popularity": null,
+    "rank": 42
+   },
+   {
+    "id": "7qSqVmEQQ61iLQXmqd8mTP",
+    "name": "Mausam",
+    "artists": [
+     "Pritam",
+     "Arijit Singh",
+     "Qaisar-Ul-Jafri",
+     "Sandeep Shrivastava"
+    ],
+    "album": "Metro ... In Dino (Side A)",
+    "art": "https://i.scdn.co/image/ab67616d0000b273c143807ae8bcde3ca124abbd",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851c143807ae8bcde3ca124abbd",
+    "url": "https://open.spotify.com/track/7qSqVmEQQ61iLQXmqd8mTP",
+    "duration_ms": 253090,
+    "popularity": null,
+    "rank": 43
+   },
+   {
+    "id": "3WLJ7D5kh44K5eJ1NqZQ6W",
+    "name": "Baarishein",
+    "artists": [
+     "Anuv Jain"
+    ],
+    "album": "Baarishein",
+    "art": "https://i.scdn.co/image/ab67616d0000b273d8ca783fa570b57e082f4374",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851d8ca783fa570b57e082f4374",
+    "url": "https://open.spotify.com/track/3WLJ7D5kh44K5eJ1NqZQ6W",
+    "duration_ms": 207312,
+    "popularity": null,
+    "rank": 44
+   },
+   {
+    "id": "6fScgF2Y63ScU73nYju0ny",
+    "name": "O Saathi",
+    "artists": [
+     "Atif Aslam",
+     "Arko"
+    ],
+    "album": "O Saathi (From \"Baaghi 2\")",
+    "art": "https://i.scdn.co/image/ab67616d0000b2733b7ae221866b5e81daf4483f",
+    "art_small": "https://i.scdn.co/image/ab67616d000048513b7ae221866b5e81daf4483f",
+    "url": "https://open.spotify.com/track/6fScgF2Y63ScU73nYju0ny",
+    "duration_ms": 251818,
+    "popularity": null,
+    "rank": 45
+   },
+   {
+    "id": "015nQRSLw6Ov0J6NW9hokI",
+    "name": "Darmiyaan",
+    "artists": [
+     "Rekha Bhardwaj",
+     "Raghav Kaushik",
+     "Amrita Saluja"
+    ],
+    "album": "Musafir Cafe (Songs from the Netflix Series)",
+    "art": "https://i.scdn.co/image/ab67616d0000b273423045e190b667abb5d2b748",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851423045e190b667abb5d2b748",
+    "url": "https://open.spotify.com/track/015nQRSLw6Ov0J6NW9hokI",
+    "duration_ms": 270125,
+    "popularity": null,
+    "rank": 46
+   },
+   {
+    "id": "1b8IhfmB5Ic5PNleUd1kdL",
+    "name": "Piya Samaye",
+    "artists": [
+     "Arshad Hussain",
+     "Shafqat Amanat Ali"
+    ],
+    "album": "Mulk (Original Motion Picture Soundtrack)",
+    "art": "https://i.scdn.co/image/ab67616d0000b273b256fdda3c75c6f3bac8880a",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851b256fdda3c75c6f3bac8880a",
+    "url": "https://open.spotify.com/track/1b8IhfmB5Ic5PNleUd1kdL",
+    "duration_ms": 360461,
+    "popularity": null,
+    "rank": 47
+   },
+   {
+    "id": "1wnozUBSe7OMpmZiTPJC5j",
+    "name": "Tum Tak (From \"Raanjhanaa\")",
+    "artists": [
+     "A.R. Rahman",
+     "Javed Ali",
+     "KIRTI SAGATHIA",
+     "Pooja AV"
+    ],
+    "album": "Raanjhanaa (Original Motion Picture Soundtrack)",
+    "art": "https://i.scdn.co/image/ab67616d0000b2730c556f210b927ca230f32241",
+    "art_small": "https://i.scdn.co/image/ab67616d000048510c556f210b927ca230f32241",
+    "url": "https://open.spotify.com/track/1wnozUBSe7OMpmZiTPJC5j",
+    "duration_ms": 304459,
+    "popularity": null,
+    "rank": 48
+   },
+   {
+    "id": "45PA9lW7U5LYnlpGrdTyHY",
+    "name": "Sang Rahiyo",
+    "artists": [
+     "Jasleen Royal",
+     "Ujjwal Kashyap",
+     "Neeraj Rajawat"
+    ],
+    "album": "Sang Rahiyo",
+    "art": "https://i.scdn.co/image/ab67616d0000b273926450b06294e944ab7af6e8",
+    "art_small": "https://i.scdn.co/image/ab67616d00004851926450b06294e944ab7af6e8",
+    "url": "https://open.spotify.com/track/45PA9lW7U5LYnlpGrdTyHY",
+    "duration_ms": 213288,
+    "popularity": null,
+    "rank": 49
+   },
+   {
+    "id": "6YZxrJsE14C7bfyQGFJqqm",
+    "name": "Dhurandhar The Revenge - Aari Aari",
+    "artists": [
+     "Shashwat Sachdev",
+     "Bombay Rockers",
+     "Irshad Kamil",
+     "Khan Saab",
+     "Reble",
+     "Token",
+     "Jasmine Sandlas",
+     "Sudhir Yaduvanshi"
+    ],
+    "album": "Dhurandhar The Revenge",
+    "art": "https://i.scdn.co/image/ab67616d0000b27303cf26f1a24260acb1ae15da",
+    "art_small": "https://i.scdn.co/image/ab67616d0000485103cf26f1a24260acb1ae15da",
+    "url": "https://open.spotify.com/track/6YZxrJsE14C7bfyQGFJqqm",
+    "duration_ms": 210053,
+    "popularity": null,
+    "rank": 50
+   }
+  ]
+ },
+ "artists": {
+  "short_term": [
+   {
+    "id": "6pYc4P7IWYwWttTPzYkDV4",
+    "name": "Garvit - Priyansh",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174be65e8bec0f0615d01a71ecb",
+    "url": "https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4",
+    "popularity": null,
+    "rank": 1
+   },
+   {
+    "id": "4YRxDV8wJFPHPTeXepOstw",
+    "name": "Arijit Singh",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174adfb0b2df04b77e43b5f7375",
+    "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw",
+    "popularity": null,
+    "rank": 2
+   },
+   {
+    "id": "1wRPtKGflJrBx9BmLsSwlU",
+    "name": "Pritam",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174cb6926f44f620555ba444fca",
+    "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU",
+    "popularity": null,
+    "rank": 3
+   },
+   {
+    "id": "2FPwX3Gh0w4Qr1v3zSTtcT",
+    "name": "Papon",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab6761610000517429f045bb0d86147623b01b24",
+    "url": "https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT",
+    "popularity": null,
+    "rank": 4
+   },
+   {
+    "id": "6Mv8GjQa7LKUGCAqa9qqdb",
+    "name": "Vishal-Shekhar",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab6761610000517490b6c3d093f9b02aad628eaf",
+    "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb",
+    "popularity": null,
+    "rank": 5
+   },
+   {
+    "id": "1mBydYMVBECdDmMfE2sEUO",
+    "name": "Sachin-Jigar",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174bb4064bef3a825344d5eb79e",
+    "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO",
+    "popularity": null,
+    "rank": 6
+   },
+   {
+    "id": "0oOet2f43PA68X5RxKobEy",
+    "name": "Shreya Ghoshal",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174e7ce89a9f5d11e0ba26677eb",
+    "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy",
+    "popularity": null,
+    "rank": 7
+   },
+   {
+    "id": "7HCqGPJcQTyGJ2yqntbuyr",
+    "name": "Amit Trivedi",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174a37271f7a4862a6e99ce345f",
+    "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr",
+    "popularity": null,
+    "rank": 8
+   },
+   {
+    "id": "4gdMJYnopf2nEUcanAwstx",
+    "name": "Anuv Jain",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174a837a6cb82dd949d5e1f9b53",
+    "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx",
+    "popularity": null,
+    "rank": 9
+   },
+   {
+    "id": "0DHOOKfXu4aU7LsWjTdrIN",
+    "name": "Paresh Pahuja",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174bf947af29147d3bf81b329c3",
+    "url": "https://open.spotify.com/artist/0DHOOKfXu4aU7LsWjTdrIN",
+    "popularity": null,
+    "rank": 10
+   }
+  ],
+  "medium_term": [
+   {
+    "id": "1wRPtKGflJrBx9BmLsSwlU",
+    "name": "Pritam",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174cb6926f44f620555ba444fca",
+    "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU",
+    "popularity": null,
+    "rank": 1
+   },
+   {
+    "id": "1mYsTxnqsietFxj1OgoGbG",
+    "name": "A.R. Rahman",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174b19af0ea736c6228d6eb539c",
+    "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG",
+    "popularity": null,
+    "rank": 2
+   },
+   {
+    "id": "465OXuCU8YZNmVG1leLwQ9",
+    "name": "Shashwat Sachdev",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab6761610000517454f120e72388f1c5c3aa3edd",
+    "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9",
+    "popularity": null,
+    "rank": 3
+   },
+   {
+    "id": "1mBydYMVBECdDmMfE2sEUO",
+    "name": "Sachin-Jigar",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174bb4064bef3a825344d5eb79e",
+    "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO",
+    "popularity": null,
+    "rank": 4
+   },
+   {
+    "id": "6pYc4P7IWYwWttTPzYkDV4",
+    "name": "Garvit - Priyansh",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174be65e8bec0f0615d01a71ecb",
+    "url": "https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4",
+    "popularity": null,
+    "rank": 5
+   },
+   {
+    "id": "4YRxDV8wJFPHPTeXepOstw",
+    "name": "Arijit Singh",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174adfb0b2df04b77e43b5f7375",
+    "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw",
+    "popularity": null,
+    "rank": 6
+   },
+   {
+    "id": "7HCqGPJcQTyGJ2yqntbuyr",
+    "name": "Amit Trivedi",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174a37271f7a4862a6e99ce345f",
+    "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr",
+    "popularity": null,
+    "rank": 7
+   },
+   {
+    "id": "3ozYqVCLohfpXIhalkhM8D",
+    "name": "Aditya Rikhari",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174482c8b15eab378fdebc5e05e",
+    "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D",
+    "popularity": null,
+    "rank": 8
+   },
+   {
+    "id": "4gdMJYnopf2nEUcanAwstx",
+    "name": "Anuv Jain",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174a837a6cb82dd949d5e1f9b53",
+    "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx",
+    "popularity": null,
+    "rank": 9
+   },
+   {
+    "id": "0L5GV6LN8SWWUWIdBbTLTZ",
+    "name": "Shankar-Ehsaan-Loy",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab676161000051743db0499a689aa9b4a47ebba3",
+    "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ",
+    "popularity": null,
+    "rank": 10
+   },
+   {
+    "id": "6CC1WUZF9zNnZRC4qigNHx",
+    "name": "Apeksha Pai",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174c48ea854650f8653d8ca4c8d",
+    "url": "https://open.spotify.com/artist/6CC1WUZF9zNnZRC4qigNHx",
+    "popularity": null,
+    "rank": 11
+   },
+   {
+    "id": "0tC995Rfn9k2l7nqgCZsV7",
+    "name": "Prateek Kuhad",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174ccfd7611abf26821fc8ea240",
+    "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7",
+    "popularity": null,
+    "rank": 12
+   },
+   {
+    "id": "4rXABp4A7KjG9elWFNAbO4",
+    "name": "Miracle Tones",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174397a7a1c7bbae495a35e8694",
+    "url": "https://open.spotify.com/artist/4rXABp4A7KjG9elWFNAbO4",
+    "popularity": null,
+    "rank": 13
+   },
+   {
+    "id": "74OaRjmyh0XyRZsQQQ5l7c",
+    "name": "Jasleen Royal",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174e420e50a3b2dba350dfa2d01",
+    "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c",
+    "popularity": null,
+    "rank": 14
+   },
+   {
+    "id": "0oOet2f43PA68X5RxKobEy",
+    "name": "Shreya Ghoshal",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174e7ce89a9f5d11e0ba26677eb",
+    "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy",
+    "popularity": null,
+    "rank": 15
+   },
+   {
+    "id": "6Mv8GjQa7LKUGCAqa9qqdb",
+    "name": "Vishal-Shekhar",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab6761610000517490b6c3d093f9b02aad628eaf",
+    "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb",
+    "popularity": null,
+    "rank": 16
+   },
+   {
+    "id": "79jChyQpm3UY9JD5btkNcK",
+    "name": "Sangeet Haldipur",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174b7809c94a41696cfc286ce0c",
+    "url": "https://open.spotify.com/artist/79jChyQpm3UY9JD5btkNcK",
+    "popularity": null,
+    "rank": 17
+   },
+   {
+    "id": "1tqysapcCh1lWEAc9dIFpa",
+    "name": "Jubin Nautiyal",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174716a9e718655bd0374073ef7",
+    "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa",
+    "popularity": null,
+    "rank": 18
+   },
+   {
+    "id": "3HUf0l1HSBzHw0F5UhBOpA",
+    "name": "Piyush Bhisekar",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab676161000051740b6bffb90ab3e034306b36a8",
+    "url": "https://open.spotify.com/artist/3HUf0l1HSBzHw0F5UhBOpA",
+    "popularity": null,
+    "rank": 19
+   },
+   {
+    "id": "2FPwX3Gh0w4Qr1v3zSTtcT",
+    "name": "Papon",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab6761610000517429f045bb0d86147623b01b24",
+    "url": "https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT",
+    "popularity": null,
+    "rank": 20
+   },
+   {
+    "id": "72beYOeW2sb2yfcS4JsRvb",
+    "name": "Ritviz",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab6761610000517472f524707cb78adc359ee6d2",
+    "url": "https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb",
+    "popularity": null,
+    "rank": 21
+   },
+   {
+    "id": "7b6Ui7JVaBDEfZB9k6nHL0",
+    "name": "The Local Train",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab676161000051747aa6748dcf92d2eff597f154",
+    "url": "https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0",
+    "popularity": null,
+    "rank": 22
+   },
+   {
+    "id": "4RCALXqxv2udxtuLatKPSi",
+    "name": "Lost Stories",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174964ce61c8e429f3323cd9d68",
+    "url": "https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi",
+    "popularity": null,
+    "rank": 23
+   },
+   {
+    "id": "5wJ1H6ud777odtZl5gG507",
+    "name": "Vishal Mishra",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab676161000051742ab7328003efce0578d1ed91",
+    "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507",
+    "popularity": null,
+    "rank": 24
+   },
+   {
+    "id": "0DHOOKfXu4aU7LsWjTdrIN",
+    "name": "Paresh Pahuja",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174bf947af29147d3bf81b329c3",
+    "url": "https://open.spotify.com/artist/0DHOOKfXu4aU7LsWjTdrIN",
+    "popularity": null,
+    "rank": 25
+   },
+   {
+    "id": "2n4q8jLM4WLwlva1sZ2WRx",
+    "name": "Chaar Diwaari",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab676161000051747893d3d72cd3b06791652580",
+    "url": "https://open.spotify.com/artist/2n4q8jLM4WLwlva1sZ2WRx",
+    "popularity": null,
+    "rank": 26
+   },
+   {
+    "id": "3dN9MQpjIyNxyeRfz4EDZe",
+    "name": "Rochak Kohli",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174e09b58bac3afccac3e6e546b",
+    "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe",
+    "popularity": null,
+    "rank": 27
+   },
+   {
+    "id": "3lRhKw5gfTNnpnPFFE7TfQ",
+    "name": "Maan Panu",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab676161000051747cfc55315d06d54da27c6b72",
+    "url": "https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ",
+    "popularity": null,
+    "rank": 28
+   },
+   {
+    "id": "2GoeZ0qOTt6kjsWW4eA6LS",
+    "name": "Darshan Raval",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174b26146b5962c243babaa11f0",
+    "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS",
+    "popularity": null,
+    "rank": 29
+   },
+   {
+    "id": "4q7O0NIvhz0G1IgyfOmdcz",
+    "name": "Swanand Kirkire",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab6761610000517436452e33d096b25da0bd15da",
+    "url": "https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz",
+    "popularity": null,
+    "rank": 30
+   },
+   {
+    "id": "5GnnSrwNCGyfAU4zuIytiS",
+    "name": "Mohit Chauhan",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab6761610000517416691117e2ba803946b203ba",
+    "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS",
+    "popularity": null,
+    "rank": 31
+   },
+   {
+    "id": "2FKWNmZWDBZR4dE5KX4plR",
+    "name": "Diljit Dosanjh",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174fc043bea91ac91c222d235c9",
+    "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR",
+    "popularity": null,
+    "rank": 32
+   },
+   {
+    "id": "05etL4pzWd6TSv1x5WrlG3",
+    "name": "Faheem Abdullah",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174c3342f506f238d63c9dee119",
+    "url": "https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3",
+    "popularity": null,
+    "rank": 33
+   },
+   {
+    "id": "09UmIX92EUH9hAK4bxvHx6",
+    "name": "Mithoon",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab676161000051749bd641ceb72d35b63fbb314a",
+    "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6",
+    "popularity": null,
+    "rank": 34
+   },
+   {
+    "id": "1SJOL9HJ08YOn92lFcYf8a",
+    "name": "Shankar Mahadevan",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab676161000051743f27a828c24d73cf0427e2e7",
+    "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a",
+    "popularity": null,
+    "rank": 35
+   },
+   {
+    "id": "3fMbdgg4jU18AjLCKBhRSm",
+    "name": "Michael Jackson",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174997cc9a4aec335d46c9481fd",
+    "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm",
+    "popularity": null,
+    "rank": 36
+   },
+   {
+    "id": "4f7KfxeHq9BiylGmyXepGt",
+    "name": "Tanishk Bagchi",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab6761610000517496f049daefd1875282baab0a",
+    "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt",
+    "popularity": null,
+    "rank": 37
+   },
+   {
+    "id": "7uIbLdzzSEqnX0Pkrb56cR",
+    "name": "Yo Yo Honey Singh",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab676161000051740d980c444c93fded5715e1b4",
+    "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR",
+    "popularity": null,
+    "rank": 38
+   },
+   {
+    "id": "3TOhzLRYnkkul71yRBxIoM",
+    "name": "Akhil Sachdeva",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab676161000051740b5162a71d6f7914c81e5a05",
+    "url": "https://open.spotify.com/artist/3TOhzLRYnkkul71yRBxIoM",
+    "popularity": null,
+    "rank": 39
+   },
+   {
+    "id": "41Sw7HsskHGbJOJXhLUTEK",
+    "name": "Osho Jain",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab676161000051740486d5fddf84f1e4c3f217c1",
+    "url": "https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK",
+    "popularity": null,
+    "rank": 40
+   },
+   {
+    "id": "6LEG9Ld1aLImEFEVHdWNSB",
+    "name": "AP Dhillon",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174fb505b37709fa86cfd8f55b3",
+    "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB",
+    "popularity": null,
+    "rank": 41
+   },
+   {
+    "id": "3iGhlvzpXc0UHBQ7klAItX",
+    "name": "Mitraz",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174e96a339b04840c8fb801ccb4",
+    "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX",
+    "popularity": null,
+    "rank": 42
+   },
+   {
+    "id": "0GF4shudTAFv8ak9eWdd4Y",
+    "name": "Kishore Kumar",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174c9ac92d87de28795c1c49730",
+    "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y",
+    "popularity": null,
+    "rank": 43
+   },
+   {
+    "id": "0lxFJDXOwwxbYpo0EnA51Z",
+    "name": "Janisht Joshi",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174014ac462129125efb956c1f7",
+    "url": "https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z",
+    "popularity": null,
+    "rank": 44
+   },
+   {
+    "id": "35XjIi7RK4ckjgBrE6CcQo",
+    "name": "Akshath",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174c160545423f5570041e8c6d3",
+    "url": "https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo",
+    "popularity": null,
+    "rank": 45
+   },
+   {
+    "id": "5tVEtYVMATyQ6OVOetuZlk",
+    "name": "Iqlipse Nova",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174aa59a416fb7d5a7e6ba6b90b",
+    "url": "https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk",
+    "popularity": null,
+    "rank": 46
+   },
+   {
+    "id": "61JrslREXq98hurYL2hYoc",
+    "name": "Lata Mangeshkar",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174a0199b159c0c5a9f62333d32",
+    "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc",
+    "popularity": null,
+    "rank": 47
+   },
+   {
+    "id": "6AnOY77z51J14nEUVsFKTy",
+    "name": "Taba Chake",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174d06b335a2f0f4fde967a4fbf",
+    "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy",
+    "popularity": null,
+    "rank": 48
+   },
+   {
+    "id": "6DARBhWbfcS9E4yJzcliqQ",
+    "name": "Karan Aujla",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab676161000051748a4c60d0eebe893f72e42979",
+    "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ",
+    "popularity": null,
+    "rank": 49
+   },
+   {
+    "id": "6jf2eKjiPT6P18RbOSLzf0",
+    "name": "Arko",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab6761610000517437b6000b2144130f3a19df41",
+    "url": "https://open.spotify.com/artist/6jf2eKjiPT6P18RbOSLzf0",
+    "popularity": null,
+    "rank": 50
+   }
+  ],
+  "long_term": [
+   {
+    "id": "1wRPtKGflJrBx9BmLsSwlU",
+    "name": "Pritam",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174cb6926f44f620555ba444fca",
+    "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU",
+    "popularity": null,
+    "rank": 1
+   },
+   {
+    "id": "4YRxDV8wJFPHPTeXepOstw",
+    "name": "Arijit Singh",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174adfb0b2df04b77e43b5f7375",
+    "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw",
+    "popularity": null,
+    "rank": 2
+   },
+   {
+    "id": "1mYsTxnqsietFxj1OgoGbG",
+    "name": "A.R. Rahman",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174b19af0ea736c6228d6eb539c",
+    "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG",
+    "popularity": null,
+    "rank": 3
+   },
+   {
+    "id": "1mBydYMVBECdDmMfE2sEUO",
+    "name": "Sachin-Jigar",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174bb4064bef3a825344d5eb79e",
+    "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO",
+    "popularity": null,
+    "rank": 4
+   },
+   {
+    "id": "7HCqGPJcQTyGJ2yqntbuyr",
+    "name": "Amit Trivedi",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174a37271f7a4862a6e99ce345f",
+    "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr",
+    "popularity": null,
+    "rank": 5
+   },
+   {
+    "id": "465OXuCU8YZNmVG1leLwQ9",
+    "name": "Shashwat Sachdev",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab6761610000517454f120e72388f1c5c3aa3edd",
+    "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9",
+    "popularity": null,
+    "rank": 6
+   },
+   {
+    "id": "4gdMJYnopf2nEUcanAwstx",
+    "name": "Anuv Jain",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174a837a6cb82dd949d5e1f9b53",
+    "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx",
+    "popularity": null,
+    "rank": 7
+   },
+   {
+    "id": "4RCALXqxv2udxtuLatKPSi",
+    "name": "Lost Stories",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174964ce61c8e429f3323cd9d68",
+    "url": "https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi",
+    "popularity": null,
+    "rank": 8
+   },
+   {
+    "id": "74OaRjmyh0XyRZsQQQ5l7c",
+    "name": "Jasleen Royal",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174e420e50a3b2dba350dfa2d01",
+    "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c",
+    "popularity": null,
+    "rank": 9
+   },
+   {
+    "id": "6Mv8GjQa7LKUGCAqa9qqdb",
+    "name": "Vishal-Shekhar",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab6761610000517490b6c3d093f9b02aad628eaf",
+    "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb",
+    "popularity": null,
+    "rank": 10
+   },
+   {
+    "id": "0L5GV6LN8SWWUWIdBbTLTZ",
+    "name": "Shankar-Ehsaan-Loy",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab676161000051743db0499a689aa9b4a47ebba3",
+    "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ",
+    "popularity": null,
+    "rank": 11
+   },
+   {
+    "id": "2oSONSC9zQ4UonDKnLqksx",
+    "name": "Atif Aslam",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174c40600e02356cc86f0debe84",
+    "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx",
+    "popularity": null,
+    "rank": 12
+   },
+   {
+    "id": "0tC995Rfn9k2l7nqgCZsV7",
+    "name": "Prateek Kuhad",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174ccfd7611abf26821fc8ea240",
+    "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7",
+    "popularity": null,
+    "rank": 13
+   },
+   {
+    "id": "3ozYqVCLohfpXIhalkhM8D",
+    "name": "Aditya Rikhari",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174482c8b15eab378fdebc5e05e",
+    "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D",
+    "popularity": null,
+    "rank": 14
+   },
+   {
+    "id": "5GnnSrwNCGyfAU4zuIytiS",
+    "name": "Mohit Chauhan",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab6761610000517416691117e2ba803946b203ba",
+    "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS",
+    "popularity": null,
+    "rank": 15
+   },
+   {
+    "id": "2GoeZ0qOTt6kjsWW4eA6LS",
+    "name": "Darshan Raval",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174b26146b5962c243babaa11f0",
+    "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS",
+    "popularity": null,
+    "rank": 16
+   },
+   {
+    "id": "1tqysapcCh1lWEAc9dIFpa",
+    "name": "Jubin Nautiyal",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174716a9e718655bd0374073ef7",
+    "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa",
+    "popularity": null,
+    "rank": 17
+   },
+   {
+    "id": "5wJ1H6ud777odtZl5gG507",
+    "name": "Vishal Mishra",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab676161000051742ab7328003efce0578d1ed91",
+    "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507",
+    "popularity": null,
+    "rank": 18
+   },
+   {
+    "id": "7b6Ui7JVaBDEfZB9k6nHL0",
+    "name": "The Local Train",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab676161000051747aa6748dcf92d2eff597f154",
+    "url": "https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0",
+    "popularity": null,
+    "rank": 19
+   },
+   {
+    "id": "2n4q8jLM4WLwlva1sZ2WRx",
+    "name": "Chaar Diwaari",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab676161000051747893d3d72cd3b06791652580",
+    "url": "https://open.spotify.com/artist/2n4q8jLM4WLwlva1sZ2WRx",
+    "popularity": null,
+    "rank": 20
+   },
+   {
+    "id": "4IKVDbCSBTxBeAsMKjAuTs",
+    "name": "Armaan Malik",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174363d9b8ebe3df4a4ce2d91e0",
+    "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs",
+    "popularity": null,
+    "rank": 21
+   },
+   {
+    "id": "2oBG74gAocPMFv6Ij9ykdo",
+    "name": "Seedhe Maut",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174dbfd70ecee8d42dfd5fbb29d",
+    "url": "https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo",
+    "popularity": null,
+    "rank": 22
+   },
+   {
+    "id": "09UmIX92EUH9hAK4bxvHx6",
+    "name": "Mithoon",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab676161000051749bd641ceb72d35b63fbb314a",
+    "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6",
+    "popularity": null,
+    "rank": 23
+   },
+   {
+    "id": "1SyKki7JI1AZNKwgNMkn25",
+    "name": "Sachet-Parampara",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab676161000051749415df28058107b5d54f9fad",
+    "url": "https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25",
+    "popularity": null,
+    "rank": 24
+   },
+   {
+    "id": "72beYOeW2sb2yfcS4JsRvb",
+    "name": "Ritviz",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab6761610000517472f524707cb78adc359ee6d2",
+    "url": "https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb",
+    "popularity": null,
+    "rank": 25
+   },
+   {
+    "id": "0ivZyfIHsCjQGS5OqHt3hA",
+    "name": "Agam Aggarwal",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab676161000051741eabab66e670e65bf1acc422",
+    "url": "https://open.spotify.com/artist/0ivZyfIHsCjQGS5OqHt3hA",
+    "popularity": null,
+    "rank": 26
+   },
+   {
+    "id": "4f7KfxeHq9BiylGmyXepGt",
+    "name": "Tanishk Bagchi",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab6761610000517496f049daefd1875282baab0a",
+    "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt",
+    "popularity": null,
+    "rank": 27
+   },
+   {
+    "id": "3iGhlvzpXc0UHBQ7klAItX",
+    "name": "Mitraz",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174e96a339b04840c8fb801ccb4",
+    "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX",
+    "popularity": null,
+    "rank": 28
+   },
+   {
+    "id": "1SJOL9HJ08YOn92lFcYf8a",
+    "name": "Shankar Mahadevan",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab676161000051743f27a828c24d73cf0427e2e7",
+    "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a",
+    "popularity": null,
+    "rank": 29
+   },
+   {
+    "id": "6pYc4P7IWYwWttTPzYkDV4",
+    "name": "Garvit - Priyansh",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174be65e8bec0f0615d01a71ecb",
+    "url": "https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4",
+    "popularity": null,
+    "rank": 30
+   },
+   {
+    "id": "5tVEtYVMATyQ6OVOetuZlk",
+    "name": "Iqlipse Nova",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174aa59a416fb7d5a7e6ba6b90b",
+    "url": "https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk",
+    "popularity": null,
+    "rank": 31
+   },
+   {
+    "id": "7uIbLdzzSEqnX0Pkrb56cR",
+    "name": "Yo Yo Honey Singh",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab676161000051740d980c444c93fded5715e1b4",
+    "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR",
+    "popularity": null,
+    "rank": 32
+   },
+   {
+    "id": "6gxRXj2KUJ02vfIgkNUq5b",
+    "name": "Justh",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174025bd33104bd3dca746e2653",
+    "url": "https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b",
+    "popularity": null,
+    "rank": 33
+   },
+   {
+    "id": "5lMNphVhMLvhFmTWiKiLA2",
+    "name": "Zaeden",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174fb1618c778af375c0e42033b",
+    "url": "https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2",
+    "popularity": null,
+    "rank": 34
+   },
+   {
+    "id": "6ohaQzKaXrobAL8paLSaxq",
+    "name": "Salim–Sulaiman",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab6761610000517413a6f2195deea1f736d046e4",
+    "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq",
+    "popularity": null,
+    "rank": 35
+   },
+   {
+    "id": "0cPN6x5LmDIZjp6gFmAkqw",
+    "name": "Twin Strings",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174ad168b4511e66023c695c649",
+    "url": "https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw",
+    "popularity": null,
+    "rank": 36
+   },
+   {
+    "id": "3bAFvRjPZrpRz9Ox1sElQa",
+    "name": "Arjun Kanungo",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab676161000051745cba1119b62e3a6c4c145830",
+    "url": "https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa",
+    "popularity": null,
+    "rank": 37
+   },
+   {
+    "id": "2FPwX3Gh0w4Qr1v3zSTtcT",
+    "name": "Papon",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab6761610000517429f045bb0d86147623b01b24",
+    "url": "https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT",
+    "popularity": null,
+    "rank": 38
+   },
+   {
+    "id": "3OLGltG8UPIea8sA4w0yg0",
+    "name": "Rahat Fateh Ali Khan",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174ac45eaf028dc58810df0f382",
+    "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0",
+    "popularity": null,
+    "rank": 39
+   },
+   {
+    "id": "3xZ9z6k4Suc2O8cAiwMt7h",
+    "name": "Suzonn",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab6761610000517451f709ed03ecbb5b1842246b",
+    "url": "https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h",
+    "popularity": null,
+    "rank": 40
+   },
+   {
+    "id": "3dN9MQpjIyNxyeRfz4EDZe",
+    "name": "Rochak Kohli",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174e09b58bac3afccac3e6e546b",
+    "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe",
+    "popularity": null,
+    "rank": 41
+   },
+   {
+    "id": "43jHbOAD9UtOEO1la8CVHs",
+    "name": "Vismay Patel",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab676161000051745de51a88ea5b71bc6c08d01f",
+    "url": "https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs",
+    "popularity": null,
+    "rank": 42
+   },
+   {
+    "id": "4wwYGgSpeBtvk5WX6HBqzw",
+    "name": "Aditya A",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174144fe3a7afe2d09526c6138e",
+    "url": "https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw",
+    "popularity": null,
+    "rank": 43
+   },
+   {
+    "id": "3cqeO3muWIW5uSmUDNCmyT",
+    "name": "Rekha Bhardwaj",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab676161000051741bdf1e607a65442ffbe3b7f6",
+    "url": "https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT",
+    "popularity": null,
+    "rank": 44
+   },
+   {
+    "id": "5NHm4TU5Twz7owibYxJfFU",
+    "name": "King",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174bacb22c5856985832ced689e",
+    "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU",
+    "popularity": null,
+    "rank": 45
+   },
+   {
+    "id": "3OzUySgSF8QxZScB0RxDCB",
+    "name": "Namita Choudhary",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174cb63aa998e6ff7279aa9e190",
+    "url": "https://open.spotify.com/artist/3OzUySgSF8QxZScB0RxDCB",
+    "popularity": null,
+    "rank": 46
+   },
+   {
+    "id": "0oOet2f43PA68X5RxKobEy",
+    "name": "Shreya Ghoshal",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174e7ce89a9f5d11e0ba26677eb",
+    "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy",
+    "popularity": null,
+    "rank": 47
+   },
+   {
+    "id": "6WOdPJmexxFINcKMkP2jMG",
+    "name": "Sachet Tandon",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174e34fad78221a2cb31da57946",
+    "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG",
+    "popularity": null,
+    "rank": 48
+   },
+   {
+    "id": "15iD55LPew2DyTQDqoV0F1",
+    "name": "Ashu Shukla",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174b79f2a26dd8a8ecc841062c8",
+    "url": "https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1",
+    "popularity": null,
+    "rank": 49
+   },
+   {
+    "id": "19MVxKZZdPj2X0F8pi0OCT",
+    "name": "Sukhwinder Singh",
+    "genres": [],
+    "image": "https://i.scdn.co/image/ab67616100005174c89e803f887e3829819bf82a",
+    "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT",
+    "popularity": null,
+    "rank": 50
+   }
+  ]
+ },
+ "recent": [
+  {
+   "id": "59k0VPRjNwVg6P9HVHMW2N",
+   "name": "Mileya Mileya",
+   "artists": [
+    "Sachin-Jigar",
+    "Rekha Bhardwaj",
+    "Jigar Saraiya",
+    "Priya Andrews"
+   ],
+   "album": "Happy Ending (Original Motion Picture Soundtrack)",
+   "art": "https://i.scdn.co/image/ab67616d0000b27327645f4be53466f0a62a6b3e",
+   "art_small": "https://i.scdn.co/image/ab67616d0000485127645f4be53466f0a62a6b3e",
+   "url": "https://open.spotify.com/track/59k0VPRjNwVg6P9HVHMW2N",
+   "duration_ms": 266279,
+   "popularity": null,
+   "played_at": "2026-08-16T08:11:03.706Z"
+  },
+  {
+   "id": "7mJdz7uNv3jgVSIMkSf8ca",
+   "name": "Kasoor (From \"Dhamaka\") - Acoustic",
+   "artists": [
+    "Prateek Kuhad"
+   ],
+   "album": "Kasoor (From \"Dhamaka\") [Acoustic]",
+   "art": "https://i.scdn.co/image/ab67616d0000b273d002232ff9fefaa670829630",
+   "art_small": "https://i.scdn.co/image/ab67616d00004851d002232ff9fefaa670829630",
+   "url": "https://open.spotify.com/track/7mJdz7uNv3jgVSIMkSf8ca",
+   "duration_ms": 213306,
+   "popularity": null,
+   "played_at": "2026-08-16T07:50:44.171Z"
+  },
+  {
+   "id": "59k0VPRjNwVg6P9HVHMW2N",
+   "name": "Mileya Mileya",
+   "artists": [
+    "Sachin-Jigar",
+    "Rekha Bhardwaj",
+    "Jigar Saraiya",
+    "Priya Andrews"
+   ],
+   "album": "Happy Ending (Original Motion Picture Soundtrack)",
+   "art": "https://i.scdn.co/image/ab67616d0000b27327645f4be53466f0a62a6b3e",
+   "art_small": "https://i.scdn.co/image/ab67616d0000485127645f4be53466f0a62a6b3e",
+   "url": "https://open.spotify.com/track/59k0VPRjNwVg6P9HVHMW2N",
+   "duration_ms": 266279,
+   "popularity": null,
+   "played_at": "2026-08-16T07:22:40.635Z"
+  },
+  {
+   "id": "3QaflNCgYdF2fZKIK1QGjF",
+   "name": "Madhubala",
+   "artists": [
+    "Amit Trivedi"
+   ],
+   "album": "Songs of Love",
+   "art": "https://i.scdn.co/image/ab67616d0000b2730192dc75962c07ea1f6d1112",
+   "art_small": "https://i.scdn.co/image/ab67616d000048510192dc75962c07ea1f6d1112",
+   "url": "https://open.spotify.com/track/3QaflNCgYdF2fZKIK1QGjF",
+   "duration_ms": 243333,
+   "popularity": null,
+   "played_at": "2026-08-16T06:21:12.281Z"
+  },
+  {
+   "id": "7mJdz7uNv3jgVSIMkSf8ca",
+   "name": "Kasoor (From \"Dhamaka\") - Acoustic",
+   "artists": [
+    "Prateek Kuhad"
+   ],
+   "album": "Kasoor (From \"Dhamaka\") [Acoustic]",
+   "art": "https://i.scdn.co/image/ab67616d0000b273d002232ff9fefaa670829630",
+   "art_small": "https://i.scdn.co/image/ab67616d00004851d002232ff9fefaa670829630",
+   "url": "https://open.spotify.com/track/7mJdz7uNv3jgVSIMkSf8ca",
+   "duration_ms": 213306,
+   "popularity": null,
+   "played_at": "2026-08-16T06:17:08.678Z"
+  },
+  {
+   "id": "6ivemTXTn27PwVjtd0oqDs",
+   "name": "Gul",
+   "artists": [
+    "Anuv Jain"
+   ],
+   "album": "Gul",
+   "art": "https://i.scdn.co/image/ab67616d0000b2734cdf85ea439ad82b1b0a69ea",
+   "art_small": "https://i.scdn.co/image/ab67616d000048514cdf85ea439ad82b1b0a69ea",
+   "url": "https://open.spotify.com/track/6ivemTXTn27PwVjtd0oqDs",
+   "duration_ms": 217250,
+   "popularity": null,
+   "played_at": "2026-08-15T04:42:55.449Z"
+  },
+  {
+   "id": "6ivemTXTn27PwVjtd0oqDs",
+   "name": "Gul",
+   "artists": [
+    "Anuv Jain"
+   ],
+   "album": "Gul",
+   "art": "https://i.scdn.co/image/ab67616d0000b2734cdf85ea439ad82b1b0a69ea",
+   "art_small": "https://i.scdn.co/image/ab67616d000048514cdf85ea439ad82b1b0a69ea",
+   "url": "https://open.spotify.com/track/6ivemTXTn27PwVjtd0oqDs",
+   "duration_ms": 217250,
+   "popularity": null,
+   "played_at": "2026-08-14T11:18:40.486Z"
+  },
+  {
+   "id": "1udS0lQ0dypXEoKjP1JHwa",
+   "name": "Heartquake",
+   "artists": [
+    "Papon"
+   ],
+   "album": "Karwaan",
+   "art": "https://i.scdn.co/image/ab67616d0000b273f07f0455c6cc38f14105acfb",
+   "art_small": "https://i.scdn.co/image/ab67616d00004851f07f0455c6cc38f14105acfb",
+   "url": "https://open.spotify.com/track/1udS0lQ0dypXEoKjP1JHwa",
+   "duration_ms": 201254,
+   "popularity": null,
+   "played_at": "2026-08-14T10:53:27.627Z"
+  },
+  {
+   "id": "2MCjV49hbv76CtqKmG0pFq",
+   "name": "Dariya",
+   "artists": [
+    "Arko"
+   ],
+   "album": "Arko Top Hits",
+   "art": "https://i.scdn.co/image/ab67616d0000b273f3e0e15bd1f4b3d025b0e5c9",
+   "art_small": "https://i.scdn.co/image/ab67616d00004851f3e0e15bd1f4b3d025b0e5c9",
+   "url": "https://open.spotify.com/track/2MCjV49hbv76CtqKmG0pFq",
+   "duration_ms": 217992,
+   "popularity": null,
+   "played_at": "2026-08-14T10:50:05.914Z"
+  },
+  {
+   "id": "2kdLpMajZ2VoKEAv9nGsUz",
+   "name": "Kaahe Mose",
+   "artists": [
+    "Garvit - Priyansh",
+    "Garvit Soni",
+    "Priyansh Srivastava"
+   ],
+   "album": "Kaahe Mose",
+   "art": "https://i.scdn.co/image/ab67616d0000b2731f2c1b67a525cb5b6ccbb7fd",
+   "art_small": "https://i.scdn.co/image/ab67616d000048511f2c1b67a525cb5b6ccbb7fd",
+   "url": "https://open.spotify.com/track/2kdLpMajZ2VoKEAv9nGsUz",
+   "duration_ms": 219097,
+   "popularity": null,
+   "played_at": "2026-08-14T10:46:27.438Z"
+  },
+  {
+   "id": "0wztb6FrcdU4ZaExziQgt7",
+   "name": "Jaane De",
+   "artists": [
+    "Atif Aslam",
+    "Raj Shekhar",
+    "Vishal Mishra"
+   ],
+   "album": "Qarib Qarib Singlle (Original Motion Picture Soundtrack)",
+   "art": "https://i.scdn.co/image/ab67616d0000b273d230adc400aad5e7f74478ad",
+   "art_small": "https://i.scdn.co/image/ab67616d00004851d230adc400aad5e7f74478ad",
+   "url": "https://open.spotify.com/track/0wztb6FrcdU4ZaExziQgt7",
+   "duration_ms": 299467,
+   "popularity": null,
+   "played_at": "2026-08-14T10:42:47.948Z"
+  },
+  {
+   "id": "7uZLUFqPgGqwzD5rzOl8Sa",
+   "name": "Mulaqat",
+   "artists": [
+    "Prateek Kuhad"
+   ],
+   "album": "Mulaqat",
+   "art": "https://i.scdn.co/image/ab67616d0000b27381565a1d433c082f1ecf3bf1",
+   "art_small": "https://i.scdn.co/image/ab67616d0000485181565a1d433c082f1ecf3bf1",
+   "url": "https://open.spotify.com/track/7uZLUFqPgGqwzD5rzOl8Sa",
+   "duration_ms": 246519,
+   "popularity": null,
+   "played_at": "2026-08-14T10:37:48.038Z"
+  },
+  {
+   "id": "0SLWCkL2Fh4DPi8C16Unuk",
+   "name": "Apni Uljhan (Sar-e-Shaam - Mehfilz with Papon) (From The Living Room)",
+   "artists": [
+    "Papon"
+   ],
+   "album": "Apni Uljhan (Sar-e-Shaam - Mehfilz with Papon) (From The Living Room)",
+   "art": "https://i.scdn.co/image/ab67616d0000b273f21085225f3b7897b82d9216",
+   "art_small": "https://i.scdn.co/image/ab67616d00004851f21085225f3b7897b82d9216",
+   "url": "https://open.spotify.com/track/0SLWCkL2Fh4DPi8C16Unuk",
+   "duration_ms": 244900,
+   "popularity": null,
+   "played_at": "2026-08-14T10:33:41.050Z"
+  },
+  {
+   "id": "6BudRkYZ0VxGnKJbmBVEq3",
+   "name": "Aur Kya Chahiye",
+   "artists": [
+    "Paresh Pahuja"
+   ],
+   "album": "Aur Kya Chahiye",
+   "art": "https://i.scdn.co/image/ab67616d0000b273b4ff5804409a8257c0ecb861",
+   "art_small": "https://i.scdn.co/image/ab67616d00004851b4ff5804409a8257c0ecb861",
+   "url": "https://open.spotify.com/track/6BudRkYZ0VxGnKJbmBVEq3",
+   "duration_ms": 233677,
+   "popularity": null,
+   "played_at": "2026-08-14T10:29:35.723Z"
+  },
+  {
+   "id": "6BudRkYZ0VxGnKJbmBVEq3",
+   "name": "Aur Kya Chahiye",
+   "artists": [
+    "Paresh Pahuja"
+   ],
+   "album": "Aur Kya Chahiye",
+   "art": "https://i.scdn.co/image/ab67616d0000b273b4ff5804409a8257c0ecb861",
+   "art_small": "https://i.scdn.co/image/ab67616d00004851b4ff5804409a8257c0ecb861",
+   "url": "https://open.spotify.com/track/6BudRkYZ0VxGnKJbmBVEq3",
+   "duration_ms": 233677,
+   "popularity": null,
+   "played_at": "2026-08-14T04:22:08.645Z"
+  },
+  {
+   "id": "1awtp7rf6ajhGY9BgzCHeZ",
+   "name": "Darkhaast",
+   "artists": [
+    "Mithoon",
+    "Arijit Singh",
+    "Sunidhi Chauhan",
+    "Sayeed Quadri"
+   ],
+   "album": "Shivaay",
+   "art": "https://i.scdn.co/image/ab67616d0000b273e7fe7d656750737e8d369f95",
+   "art_small": "https://i.scdn.co/image/ab67616d00004851e7fe7d656750737e8d369f95",
+   "url": "https://open.spotify.com/track/1awtp7rf6ajhGY9BgzCHeZ",
+   "duration_ms": 374205,
+   "popularity": null,
+   "played_at": "2026-08-14T04:06:44.269Z"
+  },
+  {
+   "id": "72rQFb5N6CIoBLS4XS7zri",
+   "name": "Qayde Se - Film Version",
+   "artists": [
+    "Pritam",
+    "Papon",
+    "Amitabh Bhattacharya"
+   ],
+   "album": "Metro ... In Dino (Side B)",
+   "art": "https://i.scdn.co/image/ab67616d0000b2737a85bb67ce86ec207054d1bb",
+   "art_small": "https://i.scdn.co/image/ab67616d000048517a85bb67ce86ec207054d1bb",
+   "url": "https://open.spotify.com/track/72rQFb5N6CIoBLS4XS7zri",
+   "duration_ms": 215075,
+   "popularity": null,
+   "played_at": "2026-08-14T04:00:29.724Z"
+  },
+  {
+   "id": "3gixnmepHSsyAuho34rprN",
+   "name": "Khat",
+   "artists": [
+    "Navjot Ahuja"
+   ],
+   "album": "Khat",
+   "art": "https://i.scdn.co/image/ab67616d0000b273d421c37d9cf4bbee71844c24",
+   "art_small": "https://i.scdn.co/image/ab67616d00004851d421c37d9cf4bbee71844c24",
+   "url": "https://open.spotify.com/track/3gixnmepHSsyAuho34rprN",
+   "duration_ms": 296222,
+   "popularity": null,
+   "played_at": "2026-08-14T03:56:54.276Z"
+  },
+  {
+   "id": "3tyEQOACloIoX0jbM8YWx2",
+   "name": "Jiyein Kyun",
+   "artists": [
+    "Papon"
+   ],
+   "album": "Bollywood Unplugged",
+   "art": "https://i.scdn.co/image/ab67616d0000b273af6018f9d3fc959e62bcddc0",
+   "art_small": "https://i.scdn.co/image/ab67616d00004851af6018f9d3fc959e62bcddc0",
+   "url": "https://open.spotify.com/track/3tyEQOACloIoX0jbM8YWx2",
+   "duration_ms": 343371,
+   "popularity": null,
+   "played_at": "2026-08-14T03:50:46.047Z"
+  },
+  {
+   "id": "0uBo93xl23O60oErtKvSAg",
+   "name": "Mazaak",
+   "artists": [
+    "Anuv Jain"
+   ],
+   "album": "Mazaak",
+   "art": "https://i.scdn.co/image/ab67616d0000b273ad067fee73708c0f988d0201",
+   "art_small": "https://i.scdn.co/image/ab67616d00004851ad067fee73708c0f988d0201",
+   "url": "https://open.spotify.com/track/0uBo93xl23O60oErtKvSAg",
+   "duration_ms": 212062,
+   "popularity": null,
+   "played_at": "2026-08-14T03:45:02.171Z"
+  },
+  {
+   "id": "50EDY0zGZteoBy3hORXSba",
+   "name": "Tere Paas Main - Female Version (From \"Main Vaapas Aaunga\")",
+   "artists": [
+    "A.R. Rahman",
+    "Irshad Kamil",
+    "Deepali Sahay"
+   ],
+   "album": "Main Vaapas Aaunga (Original Motion Picture Soundtrack)",
+   "art": "https://i.scdn.co/image/ab67616d0000b273320d8311f82163512e3a4850",
+   "art_small": "https://i.scdn.co/image/ab67616d00004851320d8311f82163512e3a4850",
+   "url": "https://open.spotify.com/track/50EDY0zGZteoBy3hORXSba",
+   "duration_ms": 244647,
+   "popularity": null,
+   "played_at": "2026-08-14T03:41:29.601Z"
+  },
+  {
+   "id": "1bMkimTb47umgNP6xCi4A1",
+   "name": "Arz Kiya Hai | Coke Studio Bharat",
+   "artists": [
+    "Anuv Jain"
+   ],
+   "album": "Arz Kiya Hai | Coke Studio Bharat",
+   "art": "https://i.scdn.co/image/ab67616d0000b27325fa2d19b2363a9520a34409",
+   "art_small": "https://i.scdn.co/image/ab67616d0000485125fa2d19b2363a9520a34409",
+   "url": "https://open.spotify.com/track/1bMkimTb47umgNP6xCi4A1",
+   "duration_ms": 294500,
+   "popularity": null,
+   "played_at": "2026-08-14T03:37:24.589Z"
+  },
+  {
+   "id": "1bMkimTb47umgNP6xCi4A1",
+   "name": "Arz Kiya Hai | Coke Studio Bharat",
+   "artists": [
+    "Anuv Jain"
+   ],
+   "album": "Arz Kiya Hai | Coke Studio Bharat",
+   "art": "https://i.scdn.co/image/ab67616d0000b27325fa2d19b2363a9520a34409",
+   "art_small": "https://i.scdn.co/image/ab67616d0000485125fa2d19b2363a9520a34409",
+   "url": "https://open.spotify.com/track/1bMkimTb47umgNP6xCi4A1",
+   "duration_ms": 294500,
+   "popularity": null,
+   "played_at": "2026-08-13T14:20:02.048Z"
+  },
+  {
+   "id": "7280HwHnArYG4X6O8QMLn0",
+   "name": "Toota Rahunga",
+   "artists": [
+    "Garvit - Priyansh",
+    "Garvit Soni",
+    "Priyansh Srivastava",
+    "Aniket Shukla"
+   ],
+   "album": "Musafir Cafe (Songs from the Netflix Series)",
+   "art": "https://i.scdn.co/image/ab67616d0000b273423045e190b667abb5d2b748",
+   "art_small": "https://i.scdn.co/image/ab67616d00004851423045e190b667abb5d2b748",
+   "url": "https://open.spotify.com/track/7280HwHnArYG4X6O8QMLn0",
+   "duration_ms": 244030,
+   "popularity": null,
+   "played_at": "2026-08-13T14:08:40.896Z"
+  },
+  {
+   "id": "2NECp5Tvb5Lm6TbJf0Y8xI",
+   "name": "Mera Yaar",
+   "artists": [
+    "Shankar-Ehsaan-Loy",
+    "Javed Bashir"
+   ],
+   "album": "Bhaag Milkha Bhaag (Original Motion Picture Soundtrack)",
+   "art": "https://i.scdn.co/image/ab67616d0000b273b414911b2d52d2601220603a",
+   "art_small": "https://i.scdn.co/image/ab67616d00004851b414911b2d52d2601220603a",
+   "url": "https://open.spotify.com/track/2NECp5Tvb5Lm6TbJf0Y8xI",
+   "duration_ms": 351290,
+   "popularity": null,
+   "played_at": "2026-08-13T14:04:36.478Z"
+  },
+  {
+   "id": "2NECp5Tvb5Lm6TbJf0Y8xI",
+   "name": "Mera Yaar",
+   "artists": [
+    "Shankar-Ehsaan-Loy",
+    "Javed Bashir"
+   ],
+   "album": "Bhaag Milkha Bhaag (Original Motion Picture Soundtrack)",
+   "art": "https://i.scdn.co/image/ab67616d0000b273b414911b2d52d2601220603a",
+   "art_small": "https://i.scdn.co/image/ab67616d00004851b414911b2d52d2601220603a",
+   "url": "https://open.spotify.com/track/2NECp5Tvb5Lm6TbJf0Y8xI",
+   "duration_ms": 351290,
+   "popularity": null,
+   "played_at": "2026-08-12T15:23:54.379Z"
+  },
+  {
+   "id": "2KiPZtDxNXfiCuEFE2G1Co",
+   "name": "Zamaana Lage - Mood Shift",
+   "artists": [
+    "Pritam",
+    "Papon",
+    "Qaisar-Ul-Jafri",
+    "Sandeep Shrivastava"
+   ],
+   "album": "Metro ... In Dino (Side B)",
+   "art": "https://i.scdn.co/image/ab67616d0000b2737a85bb67ce86ec207054d1bb",
+   "art_small": "https://i.scdn.co/image/ab67616d000048517a85bb67ce86ec207054d1bb",
+   "url": "https://open.spotify.com/track/2KiPZtDxNXfiCuEFE2G1Co",
+   "duration_ms": 223317,
+   "popularity": null,
+   "played_at": "2026-08-12T15:07:01.142Z"
+  },
+  {
+   "id": "2kdLpMajZ2VoKEAv9nGsUz",
+   "name": "Kaahe Mose",
+   "artists": [
+    "Garvit - Priyansh",
+    "Garvit Soni",
+    "Priyansh Srivastava"
+   ],
+   "album": "Kaahe Mose",
+   "art": "https://i.scdn.co/image/ab67616d0000b2731f2c1b67a525cb5b6ccbb7fd",
+   "art_small": "https://i.scdn.co/image/ab67616d000048511f2c1b67a525cb5b6ccbb7fd",
+   "url": "https://open.spotify.com/track/2kdLpMajZ2VoKEAv9nGsUz",
+   "duration_ms": 219097,
+   "popularity": null,
+   "played_at": "2026-08-12T15:03:17.494Z"
+  },
+  {
+   "id": "4137w3YEeQSgz52qxyjxHR",
+   "name": "Kaun Mera",
+   "artists": [
+    "Papon"
+   ],
+   "album": "Special 26",
+   "art": "https://i.scdn.co/image/ab67616d0000b2737840b2af41326ed0cc61e89d",
+   "art_small": "https://i.scdn.co/image/ab67616d000048517840b2af41326ed0cc61e89d",
+   "url": "https://open.spotify.com/track/4137w3YEeQSgz52qxyjxHR",
+   "duration_ms": 172942,
+   "popularity": null,
+   "played_at": "2026-08-12T14:59:38.053Z"
+  },
+  {
+   "id": "4137w3YEeQSgz52qxyjxHR",
+   "name": "Kaun Mera",
+   "artists": [
+    "Papon"
+   ],
+   "album": "Special 26",
+   "art": "https://i.scdn.co/image/ab67616d0000b2737840b2af41326ed0cc61e89d",
+   "art_small": "https://i.scdn.co/image/ab67616d000048517840b2af41326ed0cc61e89d",
+   "url": "https://open.spotify.com/track/4137w3YEeQSgz52qxyjxHR",
+   "duration_ms": 172942,
+   "popularity": null,
+   "played_at": "2026-08-11T16:17:52.755Z"
+  },
+  {
+   "id": "5GcVuKV12CryRih9BDiXBk",
+   "name": "Dekha Hi Nahi",
+   "artists": [
+    "Osho Jain",
+    "Sanchi"
+   ],
+   "album": "Dekha Hi Nahi",
+   "art": "https://i.scdn.co/image/ab67616d0000b27355933249f276317292be3d2d",
+   "art_small": "https://i.scdn.co/image/ab67616d0000485155933249f276317292be3d2d",
+   "url": "https://open.spotify.com/track/5GcVuKV12CryRih9BDiXBk",
+   "duration_ms": 236384,
+   "popularity": null,
+   "played_at": "2026-08-11T15:48:01.450Z"
+  },
+  {
+   "id": "2bJY9fBufoNIibbACu1ZnW",
+   "name": "Abhi Na Jao Chod Kar",
+   "artists": [
+    "Sourendro-Soumyojit"
+   ],
+   "album": "Abhi Na Jao Chod Kar",
+   "art": "https://i.scdn.co/image/ab67616d0000b273aaef272fa2779b93b828e150",
+   "art_small": "https://i.scdn.co/image/ab67616d00004851aaef272fa2779b93b828e150",
+   "url": "https://open.spotify.com/track/2bJY9fBufoNIibbACu1ZnW",
+   "duration_ms": 350400,
+   "popularity": null,
+   "played_at": "2026-08-11T15:30:53.507Z"
+  },
+  {
+   "id": "3hAHATF4Na0arwtzmtjAOF",
+   "name": "Mujhe Tum Nazar Se",
+   "artists": [
+    "Ali Zafar"
+   ],
+   "album": "Mujhe Tum Nazar Se",
+   "art": "https://i.scdn.co/image/ab67616d0000b273a9801f0c3937f66197469f2f",
+   "art_small": "https://i.scdn.co/image/ab67616d00004851a9801f0c3937f66197469f2f",
+   "url": "https://open.spotify.com/track/3hAHATF4Na0arwtzmtjAOF",
+   "duration_ms": 193811,
+   "popularity": null,
+   "played_at": "2026-08-11T15:24:20.140Z"
+  },
+  {
+   "id": "3fWMFwaJil8fD14JCgwbcL",
+   "name": "Aaoge Jab Tum",
+   "artists": [
+    "Rashid Khan",
+    "Sandesh Shandilya",
+    "Faaiz Anwar"
+   ],
+   "album": "Jab We Met",
+   "art": "https://i.scdn.co/image/ab67616d0000b27352fe6875028c892308ffc2f7",
+   "art_small": "https://i.scdn.co/image/ab67616d0000485152fe6875028c892308ffc2f7",
+   "url": "https://open.spotify.com/track/3fWMFwaJil8fD14JCgwbcL",
+   "duration_ms": 355065,
+   "popularity": null,
+   "played_at": "2026-08-11T15:21:05.969Z"
+  },
+  {
+   "id": "7lfwFoc0KZQeT7fNbIPpTv",
+   "name": "Nawazish",
+   "artists": [
+    "Papon",
+    "Sahas Pareek"
+   ],
+   "album": "Nawazish",
+   "art": "https://i.scdn.co/image/ab67616d0000b2734d26ad07c0fd875aecc1df95",
+   "art_small": "https://i.scdn.co/image/ab67616d000048514d26ad07c0fd875aecc1df95",
+   "url": "https://open.spotify.com/track/7lfwFoc0KZQeT7fNbIPpTv",
+   "duration_ms": 204160,
+   "popularity": null,
+   "played_at": "2026-08-11T15:15:10.479Z"
+  },
+  {
+   "id": "4rSmmC6OYmjVOYxr8ruVWN",
+   "name": "Mere Bina",
+   "artists": [
+    "Pritam",
+    "Nikhil D'Souza"
+   ],
+   "album": "Crook (Original Motion Picture Soundtrack)",
+   "art": "https://i.scdn.co/image/ab67616d0000b273c32737e2c7f606beecbf1bae",
+   "art_small": "https://i.scdn.co/image/ab67616d00004851c32737e2c7f606beecbf1bae",
+   "url": "https://open.spotify.com/track/4rSmmC6OYmjVOYxr8ruVWN",
+   "duration_ms": 289560,
+   "popularity": null,
+   "played_at": "2026-08-11T15:11:45.915Z"
+  },
+  {
+   "id": "5zK7gzWMZlT4TUf2iN2Wjw",
+   "name": "Dekha Hi Nahi",
+   "artists": [
+    "Osho Jain"
+   ],
+   "album": "Uff",
+   "art": "https://i.scdn.co/image/ab67616d0000b273078280c8ff629d58b0d98483",
+   "art_small": "https://i.scdn.co/image/ab67616d00004851078280c8ff629d58b0d98483",
+   "url": "https://open.spotify.com/track/5zK7gzWMZlT4TUf2iN2Wjw",
+   "duration_ms": 221057,
+   "popularity": null,
+   "played_at": "2026-08-11T15:06:56.016Z"
+  },
+  {
+   "id": "5zK7gzWMZlT4TUf2iN2Wjw",
+   "name": "Dekha Hi Nahi",
+   "artists": [
+    "Osho Jain"
+   ],
+   "album": "Uff",
+   "art": "https://i.scdn.co/image/ab67616d0000b273078280c8ff629d58b0d98483",
+   "art_small": "https://i.scdn.co/image/ab67616d00004851078280c8ff629d58b0d98483",
+   "url": "https://open.spotify.com/track/5zK7gzWMZlT4TUf2iN2Wjw",
+   "duration_ms": 221057,
+   "popularity": null,
+   "played_at": "2026-08-10T13:11:03.070Z"
+  },
+  {
+   "id": "3bZPdEskcnMdepwCaDSJRl",
+   "name": "Bin Tere",
+   "artists": [
+    "Vishal-Shekhar",
+    "Shafqat Amanat Ali",
+    "Sunidhi Chauhan"
+   ],
+   "album": "I Hate Luv Storys (Original Motion Picture Soundtrack)",
+   "art": "https://i.scdn.co/image/ab67616d0000b2731992dd7b33baf5887ea4a1ec",
+   "art_small": "https://i.scdn.co/image/ab67616d000048511992dd7b33baf5887ea4a1ec",
+   "url": "https://open.spotify.com/track/3bZPdEskcnMdepwCaDSJRl",
+   "duration_ms": 330360,
+   "popularity": null,
+   "played_at": "2026-08-10T12:57:06.430Z"
+  },
+  {
+   "id": "1udS0lQ0dypXEoKjP1JHwa",
+   "name": "Heartquake",
+   "artists": [
+    "Papon"
+   ],
+   "album": "Karwaan",
+   "art": "https://i.scdn.co/image/ab67616d0000b273f07f0455c6cc38f14105acfb",
+   "art_small": "https://i.scdn.co/image/ab67616d00004851f07f0455c6cc38f14105acfb",
+   "url": "https://open.spotify.com/track/1udS0lQ0dypXEoKjP1JHwa",
+   "duration_ms": 201254,
+   "popularity": null,
+   "played_at": "2026-08-10T12:51:35.653Z"
+  },
+  {
+   "id": "1udS0lQ0dypXEoKjP1JHwa",
+   "name": "Heartquake",
+   "artists": [
+    "Papon"
+   ],
+   "album": "Karwaan",
+   "art": "https://i.scdn.co/image/ab67616d0000b273f07f0455c6cc38f14105acfb",
+   "art_small": "https://i.scdn.co/image/ab67616d00004851f07f0455c6cc38f14105acfb",
+   "url": "https://open.spotify.com/track/1udS0lQ0dypXEoKjP1JHwa",
+   "duration_ms": 201254,
+   "popularity": null,
+   "played_at": "2026-08-10T12:49:10.785Z"
+  },
+  {
+   "id": "72rQFb5N6CIoBLS4XS7zri",
+   "name": "Qayde Se - Film Version",
+   "artists": [
+    "Pritam",
+    "Papon",
+    "Amitabh Bhattacharya"
+   ],
+   "album": "Metro ... In Dino (Side B)",
+   "art": "https://i.scdn.co/image/ab67616d0000b2737a85bb67ce86ec207054d1bb",
+   "art_small": "https://i.scdn.co/image/ab67616d000048517a85bb67ce86ec207054d1bb",
+   "url": "https://open.spotify.com/track/72rQFb5N6CIoBLS4XS7zri",
+   "duration_ms": 215075,
+   "popularity": null,
+   "played_at": "2026-08-10T12:36:14.437Z"
+  },
+  {
+   "id": "7280HwHnArYG4X6O8QMLn0",
+   "name": "Toota Rahunga",
+   "artists": [
+    "Garvit - Priyansh",
+    "Garvit Soni",
+    "Priyansh Srivastava",
+    "Aniket Shukla"
+   ],
+   "album": "Musafir Cafe (Songs from the Netflix Series)",
+   "art": "https://i.scdn.co/image/ab67616d0000b273423045e190b667abb5d2b748",
+   "art_small": "https://i.scdn.co/image/ab67616d00004851423045e190b667abb5d2b748",
+   "url": "https://open.spotify.com/track/7280HwHnArYG4X6O8QMLn0",
+   "duration_ms": 244030,
+   "popularity": null,
+   "played_at": "2026-08-10T12:27:26.350Z"
+  },
+  {
+   "id": "37JOhPdeecNxkqpfcj1XcX",
+   "name": "Darmiyaan (From \"Musafir Cafe\")",
+   "artists": [
+    "Rekha Bhardwaj",
+    "Raghav Kaushik",
+    "Amrita Saluja"
+   ],
+   "album": "Darmiyaan (From \"Musafir Cafe\")",
+   "art": "https://i.scdn.co/image/ab67616d0000b273ad3289646d237c156134a74f",
+   "art_small": "https://i.scdn.co/image/ab67616d00004851ad3289646d237c156134a74f",
+   "url": "https://open.spotify.com/track/37JOhPdeecNxkqpfcj1XcX",
+   "duration_ms": 270125,
+   "popularity": null,
+   "played_at": "2026-08-10T12:23:21.986Z"
+  },
+  {
+   "id": "4137w3YEeQSgz52qxyjxHR",
+   "name": "Kaun Mera",
+   "artists": [
+    "Papon"
+   ],
+   "album": "Special 26",
+   "art": "https://i.scdn.co/image/ab67616d0000b2737840b2af41326ed0cc61e89d",
+   "art_small": "https://i.scdn.co/image/ab67616d000048517840b2af41326ed0cc61e89d",
+   "url": "https://open.spotify.com/track/4137w3YEeQSgz52qxyjxHR",
+   "duration_ms": 172942,
+   "popularity": null,
+   "played_at": "2026-08-10T12:18:50.666Z"
+  },
+  {
+   "id": "2iVj11OdEBNIGUv9f7jGPK",
+   "name": "Taare",
+   "artists": [
+    "Farak",
+    "10A",
+    "Saswat Balan"
+   ],
+   "album": "Deewar Ke Uss Paar",
+   "art": "https://i.scdn.co/image/ab67616d0000b273a81b61a834db74333eb53a2e",
+   "art_small": "https://i.scdn.co/image/ab67616d00004851a81b61a834db74333eb53a2e",
+   "url": "https://open.spotify.com/track/2iVj11OdEBNIGUv9f7jGPK",
+   "duration_ms": 154473,
+   "popularity": null,
+   "played_at": "2026-08-10T11:01:42.040Z"
+  }
+ ],
+ "stats": {
+  "top_genres": [],
+  "obsession": {
+   "id": "1udS0lQ0dypXEoKjP1JHwa",
+   "name": "Heartquake",
+   "artists": [
+    "Papon"
+   ],
+   "album": "Karwaan",
+   "art": "https://i.scdn.co/image/ab67616d0000b273f07f0455c6cc38f14105acfb",
+   "art_small": "https://i.scdn.co/image/ab67616d00004851f07f0455c6cc38f14105acfb",
+   "url": "https://open.spotify.com/track/1udS0lQ0dypXEoKjP1JHwa",
+   "duration_ms": 201254,
+   "popularity": null,
+   "played_at": "2026-08-14T10:53:27.627Z",
+   "plays": 3
+  },
+  "artist_of_moment": {
+   "name": "Papon",
+   "plays": 12,
+   "image": "https://i.scdn.co/image/ab6761610000517429f045bb0d86147623b01b24",
+   "url": "https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT"
+  },
+  "recent_minutes": 190,
+  "recent_unique_tracks": 32
+ }
+}
